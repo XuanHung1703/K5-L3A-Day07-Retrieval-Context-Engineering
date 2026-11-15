@@ -1,0 +1,71 @@
+[
+  {
+    "query_id": "q16",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Carlyle và Tolstoy được nêu rõ ở trang 33.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q17",
+    "context_grade": 0,
+    "answer_grade": 0,
+    "citation_support": [],
+    "abstention_correct": null,
+    "reason": "Baseline từ chối; 3200 có khảo sát và thịnh vượng, nhưng citation gộp hai ID không hợp lệ.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q18",
+    "context_grade": 1,
+    "answer_grade": 1,
+    "citation_support": [
+      false,
+      false
+    ],
+    "abstention_correct": null,
+    "reason": "Context 800 nêu ưa/kỵ nước nhưng không xác định rõ vị trí trong bilayer; 3200 có đầy đủ.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q19",
+    "context_grade": 0,
+    "answer_grade": 0,
+    "citation_support": [],
+    "abstention_correct": null,
+    "reason": "Baseline từ chối; 3200 nêu đúng yêu cầu nhưng thêm ví dụ retrovirus không có trong context.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q20",
+    "context_grade": 0,
+    "answer_grade": 0,
+    "citation_support": [],
+    "abstention_correct": null,
+    "reason": "Baseline từ chối; 3200 trả lời đúng và context có evidence, nhưng câu trả lời không dẫn nguồn.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q23",
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Từ chối phù hợp; tài liệu lịch sử không có giá vé cụ thể ngày yêu cầu.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q24",
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Từ chối phù hợp; corpus không có xét nghiệm cá nhân.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  }
+]

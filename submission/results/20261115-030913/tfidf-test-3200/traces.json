@@ -1,0 +1,381 @@
+[
+  {
+    "query_id": "q16",
+    "split": "test",
+    "question": "Who coined the term 'Great Men' in an 1840 lecture on heroes, and which Russian novelist argued in War and Peace that history is far more than the actions of one person?",
+    "answerable": true,
+    "results": [
+      {
+        "id": "openstax_1_p33_para_0",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 33,
+        "text": "1.4.4 https://human.libretexts.org/@go/page/236420 Great Men, or Everyone? In an 1840 lecture on heroes, Thomas Carlyle coined the term “Great Men” to describe the kind of history he considered worthy, the study of elite men in positions of power. In his novel War and Peace, the Russian novelist Leo Tolstoy argued that there is far more to history than the actions of one person. In the following excerpts, consider the viewpoint of each writer. As I take it, Universal History, the history of what man has accomplished in this world, is at bottom the History of the Great Men who have worked here.",
+        "metadata": {
+          "section": "1.4: Causation and Interpretation in History"
+        },
+        "score": 0.6082474541493055,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_1_p32_para_3",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 32,
+        "text": "In the early nineteenth century, a new school of thought called Romanticism emerged. The Romantics believed there was greatness in everyday life. Even a small flower was worthy of a poem, and the plight of a lowly squire was as important as the worries of the great lord of the manor, for both were essential actors in the human experience. The advent of Romantic art, poetry, music, and novels paved the way for a broad reexamination of what was worth knowing and studying. Writing a little later, in 1860, the Russian novelist Leo Tolstoy argued that there is more to history than the actions of one person. In his novel War and Peace, he contended that the “general mass of men” who participate in history are the ones who truly cause events.",
+        "metadata": {
+          "section": "1.4: Causation and Interpretation in History"
+        },
+        "score": 0.3129351532899175,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_1_p33_para_2",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 33,
+        "text": "—Thomas Carlyle, “Lecture on Heroes” In historical events (where the actions of men are the subject of observation) the first and most primitive approximation to present itself was the will of the gods and, after that, the will of those who stood in the most prominent position—the heroes of history. But we need only penetrate to the essence of any historic event—which lies in the activity of the general mass of men who take part in it—to be convinced that the will of the historic hero does not control the actions of the mass but is itself continually controlled.",
+        "metadata": {
+          "section": "1.4: Causation and Interpretation in History"
+        },
+        "score": 0.2798538973191598,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[openstax_1_p33_para_0 | openstax_1 | page 33]\n1.4.4 https://human.libretexts.org/@go/page/236420 Great Men, or Everyone? In an 1840 lecture on heroes, Thomas Carlyle coined the term “Great Men” to describe the kind of history he considered worthy, the study of elite men in positions of power. In his novel War and Peace, the Russian novelist Leo Tolstoy argued that there is far more to history than the actions of one person. In the following excerpts, consider the viewpoint of each writer. As I take it, Universal History, the history of what man has accomplished in this world, is at bottom the History of the Great Men who have worked here.\n\n[openstax_1_p32_para_3 | openstax_1 | page 32]\nIn the early nineteenth century, a new school of thought called Romanticism emerged. The Romantics believed there was greatness in everyday life. Even a small flower was worthy of a poem, and the plight of a lowly squire was as important as the worries of the great lord of the manor, for both were essential actors in the human experience. The advent of Romantic art, poetry, music, and novels paved the way for a broad reexamination of what was worth knowing and studying. Writing a little later, in 1860, the Russian novelist Leo Tolstoy argued that there is more to history than the actions of one person. In his novel War and Peace, he contended that the “general mass of men” who participate in history are the ones who truly cause events.\n\n[openstax_1_p33_para_2 | openstax_1 | page 33]\n—Thomas Carlyle, “Lecture on Heroes” In historical events (where the actions of men are the subject of observation) the first and most primitive approximation to present itself was the will of the gods and, after that, the will of those who stood in the most prominent position—the heroes of history. But we need only penetrate to the essence of any historic event—which lies in the activity of the general mass of men who take part in it—to be convinced that the will of the historic hero does not control the actions of the mass but is itself continually controlled.",
+    "context_ids": [
+      "openstax_1_p33_para_0",
+      "openstax_1_p32_para_3",
+      "openstax_1_p33_para_2"
+    ],
+    "status": "retrieved",
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "elapsed_seconds": 0.0027738000062527135
+  },
+  {
+    "query_id": "q17",
+    "split": "test",
+    "question": "In the 2015–2016 BBC survey across eighteen countries, how did respondents view themselves as global citizens, and what happens to that sentiment during economic prosperity?",
+    "answerable": true,
+    "results": [
+      {
+        "id": "openstax_1_p16_para_0",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 16,
+        "text": "1.2.3 https://human.libretexts.org/@go/page/236418 Figure 1.3 Human Rights, Codified. Eleanor Roosevelt is shown holding a poster of the UN Universal Declaration of Human Rights in November 1949. Roosevelt, the former First Lady of the United States, chaired the committee that drafted the declaration. (credit: “Eleanor Roosevelt UDHR” by FDR Presidential Library & Museum/Flickr, CC BY 2.0) A BBC poll in 2015–2016 surveyed eighteen countries and found that more than half the respondents believed themselves to be “global citizens.” It also found that in times of prosperity, sentiments favoring a world community grow, while in times of strife, people tend to revert to more local, national identities. Though no one can see the future, it is difficult to imagine turning the clock back on the processes of globalization. Whether you would like to be a global citizen of the world or not, understanding the world is essential. What does it mean to be a citizen of the world?",
+        "metadata": {
+          "section": "1.2: Developing a Global Perspective"
+        },
+        "score": 0.271267950603413,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_1_p15_para_2",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 15,
+        "text": "Learning how to respect, communicate and collaborate with an increasingly diverse work culture is crucial to optimizing a company’s efficiency and productivity.” World History and Global Citizenship The study of world history recognizes the integrated nature of modern life and prepares students for diverse, global workplaces. Knowing about the world will prepare you to be a global citizen, someone who may reside in only one nation but who self\u0002identifies as part of the larger world community. Issues in need of solutions, like climate change, social justice, and human rights, are global in scale. You must know the world to be the change it needs. How do you fit in the global environment? What is your story, and how is it linked to that of others? In many ways, the idea of global citizenship emerged from the human wreckage of the two world wars.",
+        "metadata": {
+          "section": "1.2: Developing a Global Perspective"
+        },
+        "score": 0.12469203607310377,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_1_p34_para_3",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 34,
+        "text": "Figure 1.13 Trends in Historical Thought. Historians’ thinking has led from the progressive school of interpretation to the more contemporary fields of intellectual and social history. (CC BY 4.0; Rice University & OpenStax) To understand history, you must understand the social construction of reality, which is the way people define roles and perceive themselves within a social context. Consider our earlier thought exercise. You believe education is important. Why? Who has said that to you in the past? How did you come to believe it? In other words, what is your social construction of education, and where did it come from?",
+        "metadata": {
+          "section": "1.4: Causation and Interpretation in History"
+        },
+        "score": 0.0904946369282013,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[openstax_1_p16_para_0 | openstax_1 | page 16]\n1.2.3 https://human.libretexts.org/@go/page/236418 Figure 1.3 Human Rights, Codified. Eleanor Roosevelt is shown holding a poster of the UN Universal Declaration of Human Rights in November 1949. Roosevelt, the former First Lady of the United States, chaired the committee that drafted the declaration. (credit: “Eleanor Roosevelt UDHR” by FDR Presidential Library & Museum/Flickr, CC BY 2.0) A BBC poll in 2015–2016 surveyed eighteen countries and found that more than half the respondents believed themselves to be “global citizens.” It also found that in times of prosperity, sentiments favoring a world community grow, while in times of strife, people tend to revert to more local, national identities. Though no one can see the future, it is difficult to imagine turning the clock back on the processes of globalization. Whether you would like to be a global citizen of the world or not, understanding the world is essential. What does it mean to be a citizen of the world?\n\n[openstax_1_p15_para_2 | openstax_1 | page 15]\nLearning how to respect, communicate and collaborate with an increasingly diverse work culture is crucial to optimizing a company’s efficiency and productivity.” World History and Global Citizenship The study of world history recognizes the integrated nature of modern life and prepares students for diverse, global workplaces. Knowing about the world will prepare you to be a global citizen, someone who may reside in only one nation but who self\u0002identifies as part of the larger world community. Issues in need of solutions, like climate change, social justice, and human rights, are global in scale. You must know the world to be the change it needs. How do you fit in the global environment? What is your story, and how is it linked to that of others? In many ways, the idea of global citizenship emerged from the human wreckage of the two world wars.\n\n[openstax_1_p34_para_3 | openstax_1 | page 34]\nFigure 1.13 Trends in Historical Thought. Historians’ thinking has led from the progressive school of interpretation to the more contemporary fields of intellectual and social history. (CC BY 4.0; Rice University & OpenStax) To understand history, you must understand the social construction of reality, which is the way people define roles and perceive themselves within a social context. Consider our earlier thought exercise. You believe education is important. Why? Who has said that to you in the past? How did you come to believe it? In other words, what is your social construction of education, and where did it come from?",
+    "context_ids": [
+      "openstax_1_p16_para_0",
+      "openstax_1_p15_para_2",
+      "openstax_1_p34_para_3"
+    ],
+    "status": "retrieved",
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "elapsed_seconds": 0.003110799996647984
+  },
+  {
+    "query_id": "q18",
+    "split": "test",
+    "question": "In a cellular membrane's phospholipid bilayer, which part of the phospholipid faces the aqueous solution and which part is sequestered inside away from water?",
+    "answerable": true,
+    "results": [
+      {
+        "id": "openstax_2_p103_para_0",
+        "source_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 103,
+        "text": "Figure : The phospholipid bilayer is the major component of all cellular membranes. The hydrophilic head groups of the phospholipids face the aqueous solution. The hydrophobic tails are sequestered in the middle of the bilayer. The head is the hydrophilic part, and the tail contains the hydrophobic fatty acids. In a membrane, a bilayer of phospholipids forms the matrix of the structure, the fatty acid tails of phospholipids face inside, away from water, whereas the phosphate group faces the outside, aqueous side (Figure ). Phospholipids are responsible for the dynamic nature of the plasma membrane. If a drop of phospholipids is placed in water, it spontaneously forms a structure known as a micelle, where the hydrophilic phosphate heads face the outside and the fatty acids face the interior of this structure. Steroids Unlike the phospholipids and fats discussed earlier, steroids have a fused ring structure.",
+        "metadata": {
+          "section": "3.3: Lipids"
+        },
+        "score": 0.38547088088662607,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_2_p104_para_0",
+        "source_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 104,
+        "text": "Cholesterol is the most common steroid. Cholesterol is mainly synthesized in the liver and is the precursor to many steroid hormones such as testosterone and estradiol, which are secreted by the gonads and endocrine glands. It is also the precursor to Vitamin D. Cholesterol is also the precursor of bile salts, which help in the emulsification of fats and their subsequent absorption by cells. Although cholesterol is often spoken of in negative terms by lay people, it is necessary for proper functioning of the body. It is a component of the plasma membrane of animal cells and is found within the phospholipid bilayer. Being the outermost structure in animal cells, the plasma membrane is responsible for the transport of materials and cellular recognition and it is involved in cell-to-cell communication. For an additional perspective on lipids, explore the interactive animation “Biomolecules: The Lipids”.",
+        "metadata": {
+          "section": "3.3: Lipids"
+        },
+        "score": 0.1872880064293664,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_2_p104_para_2",
+        "source_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 104,
+        "text": "Cholesterol is a type of steroid and is an important constituent of the plasma membrane, where it helps to maintain the fluid nature of the membrane. It is also the precursor of steroid hormones such as testosterone. Glossary lipid macromolecule that is nonpolar and insoluble in water omega fat type of polyunsaturated fat that is required by the body; the numbering of the carbon omega starts from the methyl end or the end that is farthest from the carboxylic end phospholipid major constituent of the membranes; composed of two fatty acids and a phosphate-containing group attached to a glycerol backbone Link to Learning 90 (3.3.7)",
+        "metadata": {
+          "section": "3.3: Lipids"
+        },
+        "score": 0.1783352181996217,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[openstax_2_p103_para_0 | openstax_2 | page 103]\nFigure : The phospholipid bilayer is the major component of all cellular membranes. The hydrophilic head groups of the phospholipids face the aqueous solution. The hydrophobic tails are sequestered in the middle of the bilayer. The head is the hydrophilic part, and the tail contains the hydrophobic fatty acids. In a membrane, a bilayer of phospholipids forms the matrix of the structure, the fatty acid tails of phospholipids face inside, away from water, whereas the phosphate group faces the outside, aqueous side (Figure ). Phospholipids are responsible for the dynamic nature of the plasma membrane. If a drop of phospholipids is placed in water, it spontaneously forms a structure known as a micelle, where the hydrophilic phosphate heads face the outside and the fatty acids face the interior of this structure. Steroids Unlike the phospholipids and fats discussed earlier, steroids have a fused ring structure.\n\n[openstax_2_p104_para_0 | openstax_2 | page 104]\nCholesterol is the most common steroid. Cholesterol is mainly synthesized in the liver and is the precursor to many steroid hormones such as testosterone and estradiol, which are secreted by the gonads and endocrine glands. It is also the precursor to Vitamin D. Cholesterol is also the precursor of bile salts, which help in the emulsification of fats and their subsequent absorption by cells. Although cholesterol is often spoken of in negative terms by lay people, it is necessary for proper functioning of the body. It is a component of the plasma membrane of animal cells and is found within the phospholipid bilayer. Being the outermost structure in animal cells, the plasma membrane is responsible for the transport of materials and cellular recognition and it is involved in cell-to-cell communication. For an additional perspective on lipids, explore the interactive animation “Biomolecules: The Lipids”.\n\n[openstax_2_p104_para_2 | openstax_2 | page 104]\nCholesterol is a type of steroid and is an important constituent of the plasma membrane, where it helps to maintain the fluid nature of the membrane. It is also the precursor of steroid hormones such as testosterone. Glossary lipid macromolecule that is nonpolar and insoluble in water omega fat type of polyunsaturated fat that is required by the body; the numbering of the carbon omega starts from the methyl end or the end that is farthest from the carboxylic end phospholipid major constituent of the membranes; composed of two fatty acids and a phosphate-containing group attached to a glycerol backbone Link to Learning 90 (3.3.7)",
+    "context_ids": [
+      "openstax_2_p103_para_0",
+      "openstax_2_p104_para_0",
+      "openstax_2_p104_para_2"
+    ],
+    "status": "retrieved",
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "elapsed_seconds": 0.002068599991616793
+  },
+  {
+    "query_id": "q19",
+    "split": "test",
+    "question": "What does the Central Dogma of Life state about the flow of genetic information, and under what circumstance do exceptions to this rule occur?",
+    "answerable": true,
+    "results": [
+      {
+        "id": "openstax_2_p119_para_0",
+        "source_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 119,
+        "text": "As you have learned, information flow in an organism takes place from DNA to RNA to protein. DNA dictates the structure of mRNA in a process known as transcription, and RNA dictates the structure of protein in a process known as translation. This is known as the Central Dogma of Life, which holds true for all organisms; however, exceptions to the rule occur in connection with viral infections. To learn more about DNA, explore the Howard Hughes Medical Institute BioInteractive animations on the topic of DNA. Summary Nucleic acids are molecules made up of nucleotides that direct cellular activities such as cell division and protein synthesis. Each nucleotide is made up of a pentose sugar, a nitrogenous base, and a phosphate group. There are two types of nucleic acids: DNA and RNA. DNA carries the genetic blueprint of the cell and is passed on from parents to offspring (in the form of chromosomes).",
+        "metadata": {
+          "section": "3.5: Nucleic Acids"
+        },
+        "score": 0.2965641376580147,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_1_p20_para_5",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 20,
+        "text": "As you study the renderings, reflect on the following questions: What are the key features of the building? What does it make you think about? What does it tell you about the period in which it was built? What would you think about it if you were a poor sixth-century farmer, an urban merchant of some wealth, or a foreign leader? Link to Learning",
+        "metadata": {
+          "section": "1.3: Primary Sources"
+        },
+        "score": 0.20190052395277952,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_1_p25_para_3",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 25,
+        "text": "How does he use language to convey to the other members of Parliament the difficult conditions of factory labor? What arguments does John Thomas Hope use to oppose limiting the number of hours children can work? How does he try to persuade other members of Parliament to support his position? Why may the reporter have chosen to present Hope’s speech in the third person instead of in the first person, as he did for Sadler’s? Does this make Hope’s speech a less reliable source for a historian to rely upon for evidence? Records of parliamentary debate were available to the public to read. In what way might this have influenced what these politicians said and how they framed their arguments?",
+        "metadata": {
+          "section": "1.3: Primary Sources"
+        },
+        "score": 0.1543206054610447,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[openstax_2_p119_para_0 | openstax_2 | page 119]\nAs you have learned, information flow in an organism takes place from DNA to RNA to protein. DNA dictates the structure of mRNA in a process known as transcription, and RNA dictates the structure of protein in a process known as translation. This is known as the Central Dogma of Life, which holds true for all organisms; however, exceptions to the rule occur in connection with viral infections. To learn more about DNA, explore the Howard Hughes Medical Institute BioInteractive animations on the topic of DNA. Summary Nucleic acids are molecules made up of nucleotides that direct cellular activities such as cell division and protein synthesis. Each nucleotide is made up of a pentose sugar, a nitrogenous base, and a phosphate group. There are two types of nucleic acids: DNA and RNA. DNA carries the genetic blueprint of the cell and is passed on from parents to offspring (in the form of chromosomes).\n\n[openstax_1_p20_para_5 | openstax_1 | page 20]\nAs you study the renderings, reflect on the following questions: What are the key features of the building? What does it make you think about? What does it tell you about the period in which it was built? What would you think about it if you were a poor sixth-century farmer, an urban merchant of some wealth, or a foreign leader? Link to Learning\n\n[openstax_1_p25_para_3 | openstax_1 | page 25]\nHow does he use language to convey to the other members of Parliament the difficult conditions of factory labor? What arguments does John Thomas Hope use to oppose limiting the number of hours children can work? How does he try to persuade other members of Parliament to support his position? Why may the reporter have chosen to present Hope’s speech in the third person instead of in the first person, as he did for Sadler’s? Does this make Hope’s speech a less reliable source for a historian to rely upon for evidence? Records of parliamentary debate were available to the public to read. In what way might this have influenced what these politicians said and how they framed their arguments?",
+    "context_ids": [
+      "openstax_2_p119_para_0",
+      "openstax_1_p20_para_5",
+      "openstax_1_p25_para_3"
+    ],
+    "status": "retrieved",
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "elapsed_seconds": 0.002061400009552017
+  },
+  {
+    "query_id": "q20",
+    "split": "test",
+    "question": "According to section 3.E: Biological Macromolecules (Exercises), how are trans fats artificially created and why are some restaurants banning them?",
+    "answerable": true,
+    "results": [
+      {
+        "id": "openstax_2_p97_para_0",
+        "source_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 97,
+        "text": "3: BIOLOGICAL MACROMOLECULES Food provides the body with the nutrients it needs to survive. Many of these critical nutrients are biological macromolecules, or large molecules, necessary for life. These macromolecules (polymers) are built from different combinations of smaller organic molecules (monomers). What specific types of biological macromolecules do living things require? How are these molecules formed? What functions do they serve? In this chapter, these questions will be explored. 3.0: Prelude to Biological Macromolecules 3.1: Synthesis of Biological Macromolecules 3.2: Carbohydrates 3.3: Lipids 3.4: Proteins 3.5: Nucleic Acids 3.E: Biological Macromolecules (Exercises) 83 (3.1)",
+        "metadata": {
+          "section": "3: Biological Macromolecules"
+        },
+        "score": 0.36007592894864193,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_2_p121_para_0",
+        "source_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 121,
+        "text": "3.E: Biological Macromolecules (Exercises) 3.1: Synthesis of Biological Macromolecules Review Questions Dehydration synthesis leads to formation of A. monomers B. polymers C. water and polymers D. none of the above Answer available at the end of this section. During the breakdown of polymers, which of the following reactions takes place? A. hydrolysis B. dehydration C. condensation D. covalent bond Answer available at the end of this section. Free Response Why are biological macromolecules considered organic? Answer available at the end of this section. What role do electrons play in dehydration synthesis and hydrolysis? Answer available at the end of this section. 3.2: Carbohydrates Review Questions An example of a monosaccharide is ________. A. fructose B. glucose C. galactose D. all of the above Answer available at the end of this section. 107 (3.E.1)",
+        "metadata": {
+          "section": "3.E: Biological Macromolecules (Exercises)"
+        },
+        "score": 0.24448295974269368,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_2_p125_para_0",
+        "source_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 125,
+        "text": "Trans fats are created artificially when hydrogen gas is bubbled through oils to solidify them. The double bonds of the cis conformation in the hydrocarbon chain may be converted to double bonds in the trans configuration. Some restaurants are banning trans fats because they cause higher levels of LDL, or “bad” cholesterol. C B A change in gene sequence can lead to a different amino acid being added to a polypeptide chain instead of the normal one. This causes a change in protein structure and function. For example, in sickle cell anemia, the hemoglobin β chain has a single amino acid substitution—the amino acid glutamic acid in position six is substituted by valine. Because of this change, hemoglobin molecules form aggregates, and the disc-shaped red blood cells assume a crescent shape, which results in serious health problems. The sequence and number of amino acids in a polypeptide chain is its primary structure.",
+        "metadata": {
+          "section": "3.E: Biological Macromolecules (Exercises)"
+        },
+        "score": 0.2389455643319866,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[openstax_2_p97_para_0 | openstax_2 | page 97]\n3: BIOLOGICAL MACROMOLECULES Food provides the body with the nutrients it needs to survive. Many of these critical nutrients are biological macromolecules, or large molecules, necessary for life. These macromolecules (polymers) are built from different combinations of smaller organic molecules (monomers). What specific types of biological macromolecules do living things require? How are these molecules formed? What functions do they serve? In this chapter, these questions will be explored. 3.0: Prelude to Biological Macromolecules 3.1: Synthesis of Biological Macromolecules 3.2: Carbohydrates 3.3: Lipids 3.4: Proteins 3.5: Nucleic Acids 3.E: Biological Macromolecules (Exercises) 83 (3.1)\n\n[openstax_2_p121_para_0 | openstax_2 | page 121]\n3.E: Biological Macromolecules (Exercises) 3.1: Synthesis of Biological Macromolecules Review Questions Dehydration synthesis leads to formation of A. monomers B. polymers C. water and polymers D. none of the above Answer available at the end of this section. During the breakdown of polymers, which of the following reactions takes place? A. hydrolysis B. dehydration C. condensation D. covalent bond Answer available at the end of this section. Free Response Why are biological macromolecules considered organic? Answer available at the end of this section. What role do electrons play in dehydration synthesis and hydrolysis? Answer available at the end of this section. 3.2: Carbohydrates Review Questions An example of a monosaccharide is ________. A. fructose B. glucose C. galactose D. all of the above Answer available at the end of this section. 107 (3.E.1)\n\n[openstax_2_p125_para_0 | openstax_2 | page 125]\nTrans fats are created artificially when hydrogen gas is bubbled through oils to solidify them. The double bonds of the cis conformation in the hydrocarbon chain may be converted to double bonds in the trans configuration. Some restaurants are banning trans fats because they cause higher levels of LDL, or “bad” cholesterol. C B A change in gene sequence can lead to a different amino acid being added to a polypeptide chain instead of the normal one. This causes a change in protein structure and function. For example, in sickle cell anemia, the hemoglobin β chain has a single amino acid substitution—the amino acid glutamic acid in position six is substituted by valine. Because of this change, hemoglobin molecules form aggregates, and the disc-shaped red blood cells assume a crescent shape, which results in serious health problems. The sequence and number of amino acids in a polypeptide chain is its primary structure.",
+    "context_ids": [
+      "openstax_2_p97_para_0",
+      "openstax_2_p121_para_0",
+      "openstax_2_p125_para_0"
+    ],
+    "status": "retrieved",
+    "hit1": false,
+    "hit3": true,
+    "context_hit": true,
+    "elapsed_seconds": 0.0024248999980045483
+  },
+  {
+    "query_id": "q23",
+    "split": "test",
+    "question": "What was the adult admission ticket price for Hagia Sophia on November 15, 2026?",
+    "answerable": false,
+    "results": [
+      {
+        "id": "openstax_1_p21_para_0",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 21,
+        "text": "1.3.3 https://human.libretexts.org/@go/page/236419 Figure 1.4 Exterior of Hagia Sophia. Note the domes and archways in this drawing of the exterior of the Hagia Sophia. Such architectural features were particularly hard to build during the sixth century and often collapsed because the engineering was flawed. Thanks to their durability, those of Hagia Sophia were a marvel at the time it was built. (credit: “Saint Sophia, Constantinopolis” by ETH Library/Wikimedia Commons, Public Domain) Figure 1.5 Interior of Hagia Sophia. The Greek Christian iconography found in the interior of the Hagia Sophia includes halos on the figures, signifying holiness. Also note the lavish use of precious gold in this tenth-century mosaic of Mary and the child Jesus (center), and the emperors Justinian (left), and Constantine (right).",
+        "metadata": {
+          "section": "1.3: Primary Sources"
+        },
+        "score": 0.3723470888629611,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_1_p22_para_0",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 22,
+        "text": "1.3.4 https://human.libretexts.org/@go/page/236419 II came to the Hagia Sophia, he recognized its beauty and saved it from destruction. To Muslims, the Christian God and the Muslim God are the same, so Mehmed made the church a mosque—following a long tradition in the Middle East of continuing the use of sacred spaces. Minarets, towers from which the Muslim call to prayer is issued, were added at the four corners of the building, and Arabic writing was placed beside the ancient Greek iconography. The second set of images (Figure 1.6 and Figure 1.7) show the Hagia Sophia as it stands today, having also been a museum and now serving as a mosque once again. The building tells a tale spanning hundreds of years and highlights many fascinating aspects of the region’s history. But without the context, its meaning would be far less clear. Figure 1.6 Hagia Sophia’s Minarets. Hagia Sophia has four tall minarets, which were added a thousand years after its initial construction.",
+        "metadata": {
+          "section": "1.3: Primary Sources"
+        },
+        "score": 0.25347542650258986,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_1_p25_para_1",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 25,
+        "text": "Under these circumstances, the manufacturers must either raise the price of the manufactured article, or diminish the wages of their workmen. If they increased the price of the article, the foreigner would enter into competition with them. . . . [Hope] was informed that the foreign cotton manufacturers, and particularly the Americans, trod closely upon the heels of our manufacturers. If the latter were obliged to raise the price of their articles, the foreign markets would in a great measure be closed against them, and the increased price would also decrease the demand in the home market. To avoid these ruinous consequences the manufacturers would, in all cases where it was possible to dispense with their labour, cease to employ children at all, and employ a greater number of adults than before.",
+        "metadata": {
+          "section": "1.3: Primary Sources"
+        },
+        "score": 0.2422279593329796,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[openstax_1_p21_para_0 | openstax_1 | page 21]\n1.3.3 https://human.libretexts.org/@go/page/236419 Figure 1.4 Exterior of Hagia Sophia. Note the domes and archways in this drawing of the exterior of the Hagia Sophia. Such architectural features were particularly hard to build during the sixth century and often collapsed because the engineering was flawed. Thanks to their durability, those of Hagia Sophia were a marvel at the time it was built. (credit: “Saint Sophia, Constantinopolis” by ETH Library/Wikimedia Commons, Public Domain) Figure 1.5 Interior of Hagia Sophia. The Greek Christian iconography found in the interior of the Hagia Sophia includes halos on the figures, signifying holiness. Also note the lavish use of precious gold in this tenth-century mosaic of Mary and the child Jesus (center), and the emperors Justinian (left), and Constantine (right).\n\n[openstax_1_p22_para_0 | openstax_1 | page 22]\n1.3.4 https://human.libretexts.org/@go/page/236419 II came to the Hagia Sophia, he recognized its beauty and saved it from destruction. To Muslims, the Christian God and the Muslim God are the same, so Mehmed made the church a mosque—following a long tradition in the Middle East of continuing the use of sacred spaces. Minarets, towers from which the Muslim call to prayer is issued, were added at the four corners of the building, and Arabic writing was placed beside the ancient Greek iconography. The second set of images (Figure 1.6 and Figure 1.7) show the Hagia Sophia as it stands today, having also been a museum and now serving as a mosque once again. The building tells a tale spanning hundreds of years and highlights many fascinating aspects of the region’s history. But without the context, its meaning would be far less clear. Figure 1.6 Hagia Sophia’s Minarets. Hagia Sophia has four tall minarets, which were added a thousand years after its initial construction.\n\n[openstax_1_p25_para_1 | openstax_1 | page 25]\nUnder these circumstances, the manufacturers must either raise the price of the manufactured article, or diminish the wages of their workmen. If they increased the price of the article, the foreigner would enter into competition with them. . . . [Hope] was informed that the foreign cotton manufacturers, and particularly the Americans, trod closely upon the heels of our manufacturers. If the latter were obliged to raise the price of their articles, the foreign markets would in a great measure be closed against them, and the increased price would also decrease the demand in the home market. To avoid these ruinous consequences the manufacturers would, in all cases where it was possible to dispense with their labour, cease to employ children at all, and employ a greater number of adults than before.",
+    "context_ids": [
+      "openstax_1_p21_para_0",
+      "openstax_1_p22_para_0",
+      "openstax_1_p25_para_1"
+    ],
+    "status": "retrieved",
+    "elapsed_seconds": 0.0012408000038703904
+  },
+  {
+    "query_id": "q24",
+    "split": "test",
+    "question": "What is the measured LDL cholesterol value in my latest personal blood test?",
+    "answerable": false,
+    "results": [
+      {
+        "id": "openstax_2_p104_para_0",
+        "source_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 104,
+        "text": "Cholesterol is the most common steroid. Cholesterol is mainly synthesized in the liver and is the precursor to many steroid hormones such as testosterone and estradiol, which are secreted by the gonads and endocrine glands. It is also the precursor to Vitamin D. Cholesterol is also the precursor of bile salts, which help in the emulsification of fats and their subsequent absorption by cells. Although cholesterol is often spoken of in negative terms by lay people, it is necessary for proper functioning of the body. It is a component of the plasma membrane of animal cells and is found within the phospholipid bilayer. Being the outermost structure in animal cells, the plasma membrane is responsible for the transport of materials and cellular recognition and it is involved in cell-to-cell communication. For an additional perspective on lipids, explore the interactive animation “Biomolecules: The Lipids”.",
+        "metadata": {
+          "section": "3.3: Lipids"
+        },
+        "score": 0.15964201402591285,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_1_p30_para_2",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 30,
+        "text": "Levels of Causation In their quest for the why of an event, historians look at both the immediate and the long-term circumstances of that event. Not all causes are equally significant; we need to rank them in importance. Let us begin with a thought exercise. At this moment in your history, you are reading this textbook. Why? Perhaps you would say, “Because the instructor told me to, and it will be on the test.” Certainly that is a valid reason. But if you think a bit more deeply, you might also say, “I want to do well in my education so I can be successful.” And at an even deeper level, “Society tells me that education is necessary to realize my full potential, find fulfillment, and participate in the community.” Think of all the other things that caused you to be here in this moment. There are no wrong answers; just explore the levels of causation behind your reading right now. Now rank them in order of importance.",
+        "metadata": {
+          "section": "1.4: Causation and Interpretation in History"
+        },
+        "score": 0.1407579155862051,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_2_p125_para_0",
+        "source_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 125,
+        "text": "Trans fats are created artificially when hydrogen gas is bubbled through oils to solidify them. The double bonds of the cis conformation in the hydrocarbon chain may be converted to double bonds in the trans configuration. Some restaurants are banning trans fats because they cause higher levels of LDL, or “bad” cholesterol. C B A change in gene sequence can lead to a different amino acid being added to a polypeptide chain instead of the normal one. This causes a change in protein structure and function. For example, in sickle cell anemia, the hemoglobin β chain has a single amino acid substitution—the amino acid glutamic acid in position six is substituted by valine. Because of this change, hemoglobin molecules form aggregates, and the disc-shaped red blood cells assume a crescent shape, which results in serious health problems. The sequence and number of amino acids in a polypeptide chain is its primary structure.",
+        "metadata": {
+          "section": "3.E: Biological Macromolecules (Exercises)"
+        },
+        "score": 0.13345610689822338,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[openstax_2_p104_para_0 | openstax_2 | page 104]\nCholesterol is the most common steroid. Cholesterol is mainly synthesized in the liver and is the precursor to many steroid hormones such as testosterone and estradiol, which are secreted by the gonads and endocrine glands. It is also the precursor to Vitamin D. Cholesterol is also the precursor of bile salts, which help in the emulsification of fats and their subsequent absorption by cells. Although cholesterol is often spoken of in negative terms by lay people, it is necessary for proper functioning of the body. It is a component of the plasma membrane of animal cells and is found within the phospholipid bilayer. Being the outermost structure in animal cells, the plasma membrane is responsible for the transport of materials and cellular recognition and it is involved in cell-to-cell communication. For an additional perspective on lipids, explore the interactive animation “Biomolecules: The Lipids”.\n\n[openstax_1_p30_para_2 | openstax_1 | page 30]\nLevels of Causation In their quest for the why of an event, historians look at both the immediate and the long-term circumstances of that event. Not all causes are equally significant; we need to rank them in importance. Let us begin with a thought exercise. At this moment in your history, you are reading this textbook. Why? Perhaps you would say, “Because the instructor told me to, and it will be on the test.” Certainly that is a valid reason. But if you think a bit more deeply, you might also say, “I want to do well in my education so I can be successful.” And at an even deeper level, “Society tells me that education is necessary to realize my full potential, find fulfillment, and participate in the community.” Think of all the other things that caused you to be here in this moment. There are no wrong answers; just explore the levels of causation behind your reading right now. Now rank them in order of importance.\n\n[openstax_2_p125_para_0 | openstax_2 | page 125]\nTrans fats are created artificially when hydrogen gas is bubbled through oils to solidify them. The double bonds of the cis conformation in the hydrocarbon chain may be converted to double bonds in the trans configuration. Some restaurants are banning trans fats because they cause higher levels of LDL, or “bad” cholesterol. C B A change in gene sequence can lead to a different amino acid being added to a polypeptide chain instead of the normal one. This causes a change in protein structure and function. For example, in sickle cell anemia, the hemoglobin β chain has a single amino acid substitution—the amino acid glutamic acid in position six is substituted by valine. Because of this change, hemoglobin molecules form aggregates, and the disc-shaped red blood cells assume a crescent shape, which results in serious health problems. The sequence and number of amino acids in a polypeptide chain is its primary structure.",
+    "context_ids": [
+      "openstax_2_p104_para_0",
+      "openstax_1_p30_para_2",
+      "openstax_2_p125_para_0"
+    ],
+    "status": "retrieved",
+    "elapsed_seconds": 0.001455400008126162
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "corpus_note": "Pages counted = physical PDF pages (1-based) inside the selected ranges (pages 12-42 of openstax_1 and pages 97-125 of openstax_2) with >= 100 characters of text after Unicode NFC normalization, whitespace collapsing, and removal of the LibreTexts license footer. Cover, front matter, table of contents, blank/near-empty pages (page 38 of openstax_1), reference-only pages and appendices are not counted.",
+  "sources": [
+    {
+      "source_id": "openstax_1",
+      "title": "World History II: From 1400 (OpenStax)",
+      "source_path_or_url": "https://commons.libretexts.org/book/human-236231",
+      "license_or_permission": "CC BY 4.0 (https://commons.libretexts.org/)",
+      "accessed_at": "2026-11-13",
+      "physical_pages_total": 810,
+      "content_page_count": 30,
+      "content_pages": [
+        12, 13, 14, 15, 16, 17, 18, 19, 20, 21,
+        22, 23, 24, 25, 26, 27, 28, 29, 30, 31,
+        32, 33, 34, 35, 36, 37, 39, 40, 41, 42
+      ],
+      "char_count": 74683
+    },
+    {
+      "source_id": "openstax_2",
+      "title": "General Biology",
+      "source_path_or_url": "https://commons.libretexts.org/book/bio-1764",
+      "license_or_permission": "CC BY 4.0 (https://commons.libretexts.org/)",
+      "accessed_at": "2026-11-13",
+      "physical_pages_total": 1796,
+      "content_page_count": 29,
+      "content_pages": [
+        97, 98, 99, 100, 101, 102, 103, 104, 105, 106,
+        107, 108, 109, 110, 111, 112, 113, 114, 115, 116,
+        117, 118, 119, 120, 121, 122, 123, 124, 125
+      ],
+      "char_count": 58177
+    }
+  ]
+}

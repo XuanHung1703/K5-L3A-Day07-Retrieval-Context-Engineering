@@ -1,0 +1,5 @@
+{
+  "status": "error",
+  "type": "ValueError",
+  "message": "Invalid search query"
+}

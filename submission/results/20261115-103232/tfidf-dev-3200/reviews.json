@@ -1,0 +1,190 @@
+[
+  {
+    "query_id": "q01",
+    "answer_grade": 0,
+    "citation_support": [],
+    "abstention_correct": null,
+    "reason": "Từ chối câu có đáp án; agent cạn lượt tìm, context rỗng.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q02",
+    "answer_grade": 1,
+    "citation_support": [
+      true,
+      false
+    ],
+    "abstention_correct": null,
+    "reason": "Đáp án chính đúng; claim bổ sung problem-solving không được citation ghép hợp lệ hỗ trợ.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q03",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đối chiếu câu trả lời với evidence và nguồn trong context; các ý được hỏi có trong đoạn trích.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q04",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đối chiếu câu trả lời với evidence và nguồn trong context; các ý được hỏi có trong đoạn trích.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q05",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đối chiếu câu trả lời với evidence và nguồn trong context; các ý được hỏi có trong đoạn trích.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q06",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đối chiếu câu trả lời với evidence và nguồn trong context; các ý được hỏi có trong đoạn trích.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q07",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đối chiếu câu trả lời với evidence và nguồn trong context; các ý được hỏi có trong đoạn trích.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q08",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đối chiếu câu trả lời với evidence và nguồn trong context; các ý được hỏi có trong đoạn trích.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q09",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đối chiếu câu trả lời với evidence và nguồn trong context; các ý được hỏi có trong đoạn trích.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q10",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "abstention_correct": null,
+    "reason": "Đáp án chính đúng; citation cuối gộp nhiều ID nên không hợp lệ theo định dạng hiện tại.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q11",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Câu hỏi yêu cầu hormone và vitamin; câu trả lời nêu liver, testosterone, estradiol và vitamin D như context.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q12",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đối chiếu câu trả lời với evidence và nguồn trong context; các ý được hỏi có trong đoạn trích.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q13",
+    "answer_grade": 1,
+    "citation_support": [
+      false
+    ],
+    "abstention_correct": null,
+    "reason": "Thay thế đúng nhưng nêu vị trí 7 (6) mâu thuẫn và citation gộp không hợp lệ; hai đoạn nguồn thể hiện hai cách đánh số.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q14",
+    "answer_grade": 1,
+    "citation_support": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Trả lời phần chính nhưng nêu thêm cơ chế liên kết và hóa chất không được tất cả citation hỗ trợ.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q15",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đối chiếu câu trả lời với evidence và nguồn trong context; các ý được hỏi có trong đoạn trích.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q21",
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Từ chối, corpus không có dữ liệu thống kê ca bệnh Việt Nam năm 2026.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q22",
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Từ chối, corpus không có ngân sách phục chế năm 2026.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  }
+]

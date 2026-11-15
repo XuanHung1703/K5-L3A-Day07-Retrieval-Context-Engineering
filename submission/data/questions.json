@@ -1,0 +1,322 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Who prepared the seventeenth-century projection map of the world for the German astronomer Johannes Kepler?",
+    "gold": [
+      {
+        "source_id": "openstax_1",
+        "page": 13,
+        "evidence": "This seventeenth-century projection map of the world, prepared by cartographer Philip Eckebrecht for the noted German astronomer Johannes Kepler"
+      }
+    ],
+    "expected_answer": "Cartographer Philip Eckebrecht.",
+    "filter": null
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "According to the World Economic Forum, what are two of the top skills employers will value in 2025?",
+    "gold": [
+      {
+        "source_id": "openstax_1",
+        "page": 15,
+        "evidence": "The top skills employers will value in 2025, according to the World Economic Forum, include innovative inquiry and creative thinking."
+      }
+    ],
+    "expected_answer": "Innovative inquiry and creative thinking.",
+    "filter": null
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Which former US First Lady headed the committee responsible for drafting the UN Universal Declaration of Human Rights?",
+    "gold": [
+      {
+        "source_id": "openstax_1",
+        "page": 16,
+        "evidence": "Roosevelt, the former First Lady of the United States, chaired the committee that drafted the declaration."
+      }
+    ],
+    "expected_answer": "Eleanor Roosevelt.",
+    "filter": null
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "How do inaccurate world maps often distort the size of Europe compared to the Global South?",
+    "gold": [
+      {
+        "source_id": "openstax_1",
+        "page": 18,
+        "evidence": "often showing Europe as larger than it is and regions of the Global South—Latin America, Africa, and parts of Asia and Oceania—as smaller than their actual size."
+      }
+    ],
+    "expected_answer": "They often show Europe as larger than it actually is and regions of the Global South (Latin America, Africa, and parts of Asia and Oceania) as smaller than their actual size.",
+    "filter": null
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "In the section on Primary Sources, what architectural features were added at the four corners of the Hagia Sophia when Mehmed II converted it into a mosque?",
+    "gold": [
+      {
+        "source_id": "openstax_1",
+        "page": 22,
+        "evidence": "Minarets, towers from which the Muslim call to prayer is issued, were added at the four corners of the building"
+      }
+    ],
+    "expected_answer": "Minarets, towers from which the Muslim call to prayer is issued.",
+    "filter": {
+      "section": "1.3: Primary Sources"
+    }
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "What term do linguists use to describe the use of language and deliberate choices about how words are put together?",
+    "gold": [
+      {
+        "source_id": "openstax_1",
+        "page": 26,
+        "evidence": "Linguists call the use of language rhetoric. Rhetorical choices, decisions about the way words are used and put together, are often deliberate and intended to achieve a certain outcome."
+      }
+    ],
+    "expected_answer": "Rhetoric.",
+    "filter": null
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Why had the Ottomans attempted multiple times to conquer Constantinople?",
+    "gold": [
+      {
+        "source_id": "openstax_1",
+        "page": 32,
+        "evidence": "The Ottomans had tried several times to take Constantinople because it lay at the crossroads of many civilizations."
+      }
+    ],
+    "expected_answer": "Because Constantinople lay at the crossroads of many civilizations, and conquest brought new people and wealth into the Ottoman Empire.",
+    "filter": null
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "How is a triacylglycerol molecule formed, and how many water molecules are released in the process?",
+    "gold": [
+      {
+        "source_id": "openstax_2",
+        "page": 99,
+        "evidence": "Triacylglycerol is formed by the joining of three fatty acids to a glycerol backbone in a dehydration reaction. Three molecules of water are released in the process."
+      }
+    ],
+    "expected_answer": "It is formed by joining three fatty acids to a glycerol backbone in a dehydration reaction, releasing three molecules of water.",
+    "filter": null
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "In what specialized cells do mammals store fat, and how do plants store fat or oil for seedling development?",
+    "gold": [
+      {
+        "source_id": "openstax_2",
+        "page": 100,
+        "evidence": "Mammals store fats in specialized cells called adipocytes, where globules of fat occupy most of the cell’s volume. In plants, fat or oil is stored in many seeds and is used as a source of energy during seedling development."
+      }
+    ],
+    "expected_answer": "Mammals store fats in specialized cells called adipocytes, while plants store fat or oil in many seeds.",
+    "filter": null
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "How does the structure of a phospholipid differ from a triglyceride, and does a phosphate group alone attached to a diacylglycerol qualify as a phospholipid?",
+    "gold": [
+      {
+        "source_id": "openstax_2",
+        "page": 102,
+        "evidence": "Instead of three fatty acids attached as in triglycerides, however, there are two fatty acids forming diacylglycerol, and the third carbon of the glycerol backbone is occupied by a modified phosphate group"
+      }
+    ],
+    "expected_answer": "Instead of three fatty acids like in triglycerides, a phospholipid has two fatty acids forming diacylglycerol and a modified phosphate group on the third carbon; a phosphate group alone attached to a diacylglycerol does not qualify as a phospholipid (it is phosphatidate).",
+    "filter": null
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Within section 3.3: Lipids, where is cholesterol mainly synthesized, and what hormones and vitamin is it a precursor to?",
+    "gold": [
+      {
+        "source_id": "openstax_2",
+        "page": 104,
+        "evidence": "Cholesterol is mainly synthesized in the liver and is the precursor to many steroid hormones such as testosterone and estradiol, which are secreted by the gonads and endocrine glands. It is also the precursor to Vitamin D."
+      }
+    ],
+    "expected_answer": "Cholesterol is mainly synthesized in the liver and is the precursor to steroid hormones such as testosterone and estradiol, as well as Vitamin D and bile salts.",
+    "filter": {
+      "section": "3.3: Lipids"
+    }
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "What are the four groups or atoms bonded to the central alpha carbon of every amino acid?",
+    "gold": [
+      {
+        "source_id": "openstax_2",
+        "page": 107,
+        "evidence": "Each amino acid has the same fundamental structure, which consists of a central carbon atom, also known as the alpha (α) carbon, bonded to an amino group (NH2), a carboxyl group (COOH), and to a hydrogen atom. Every amino acid also has another atom or group of atoms bonded to the central atom known as the R group"
+      }
+    ],
+    "expected_answer": "An amino group (NH2), a carboxyl group (COOH), a hydrogen atom, and an R group (side chain).",
+    "filter": null
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "In section 3.4: Proteins, which specific amino acid substitution in the hemoglobin beta chain causes sickle cell anemia?",
+    "gold": [
+      {
+        "source_id": "openstax_2",
+        "page": 110,
+        "evidence": "In sickle cell anemia, the hemoglobin β chain (a small portion of which is shown in Figure ) has a single amino acid substitution, causing a change in protein structure and function. Specifically, the amino acid glutamic acid is substituted by valine in the β chain."
+      }
+    ],
+    "expected_answer": "Glutamic acid is substituted by valine in the hemoglobin beta chain.",
+    "filter": {
+      "section": "3.4: Proteins"
+    }
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Under what conditions does protein denaturation occur, and why is denaturation often reversible when the denaturing agent is removed?",
+    "gold": [
+      {
+        "source_id": "openstax_2",
+        "page": 113,
+        "evidence": "If the protein is subject to changes in temperature, pH, or exposure to chemicals, the protein structure may change, losing its shape without losing its primary sequence in what is known as denaturation. Denaturation is often reversible because the primary structure of the polypeptide is conserved in the process if the denaturing agent is removed"
+      }
+    ],
+    "expected_answer": "Denaturation occurs when a protein is subjected to changes in temperature, pH, or exposure to chemicals; it is often reversible because the primary sequence of the polypeptide is conserved, though sometimes it is irreversible.",
+    "filter": null
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "What are the three components that make up a nucleotide, and to which carbon positions of the ribose are the base and phosphate attached?",
+    "gold": [
+      {
+        "source_id": "openstax_2",
+        "page": 116,
+        "evidence": "A nucleotide is made up of three components: a nitrogenous base, a pentose sugar, and one or more phosphate groups. Carbon residues in the pentose are numbered 1′ through 5′ (the prime distinguishes these residues from those in the base, which are numbered without using a prime notation). The base is attached to the 1′ position of the ribose, and the phosphate is attached to the 5′ position."
+      }
+    ],
+    "expected_answer": "A nitrogenous base, a pentose sugar, and one or more phosphate groups; the base is attached to the 1' position and the phosphate is attached to the 5' position.",
+    "filter": null
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Who coined the term 'Great Men' in an 1840 lecture on heroes, and which Russian novelist argued in War and Peace that history is far more than the actions of one person?",
+    "gold": [
+      {
+        "source_id": "openstax_1",
+        "page": 33,
+        "evidence": "In an 1840 lecture on heroes, Thomas Carlyle coined the term “Great Men” to describe the kind of history he considered worthy, the study of elite men in positions of power. In his novel War and Peace, the Russian novelist Leo Tolstoy argued that there is far more to history than the actions of one person."
+      }
+    ],
+    "expected_answer": "Thomas Carlyle coined the term 'Great Men', and Leo Tolstoy argued in War and Peace that there is far more to history than the actions of one person.",
+    "filter": null
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "In the 2015–2016 BBC survey across eighteen countries, how did respondents view themselves as global citizens, and what happens to that sentiment during economic prosperity?",
+    "gold": [
+      {
+        "source_id": "openstax_1",
+        "page": 16,
+        "evidence": "A BBC poll in 2015–2016 surveyed eighteen countries and found that more than half the respondents believed themselves to be “global citizens.”"
+      }
+    ],
+    "expected_answer": "More than half of respondents believed themselves to be global citizens, and sentiments favoring a world community increase during times of prosperity.",
+    "filter": null
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "In a cellular membrane's phospholipid bilayer, which part of the phospholipid faces the aqueous solution and which part is sequestered inside away from water?",
+    "gold": [
+      {
+        "source_id": "openstax_2",
+        "page": 103,
+        "evidence": "The hydrophilic head groups of the phospholipids face the aqueous solution. The hydrophobic tails are sequestered in the middle of the bilayer."
+      }
+    ],
+    "expected_answer": "The hydrophilic phosphate head groups face the outside aqueous solution, while the hydrophobic fatty acid tails are sequestered in the middle of the bilayer away from water.",
+    "filter": null
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "What does the Central Dogma of Life state about the flow of genetic information, and under what circumstance do exceptions to this rule occur?",
+    "gold": [
+      {
+        "source_id": "openstax_2",
+        "page": 119,
+        "evidence": "DNA dictates the structure of mRNA in a process known as transcription, and RNA dictates the structure of protein in a process known as translation. This is known as the Central Dogma of Life, which holds true for all organisms; however, exceptions to the rule occur in connection with viral infections."
+      }
+    ],
+    "expected_answer": "Information flows from DNA to RNA (via transcription) to protein (via translation); exceptions to this rule occur in connection with viral infections.",
+    "filter": null
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "According to section 3.E: Biological Macromolecules (Exercises), how are trans fats artificially created and why are some restaurants banning them?",
+    "gold": [
+      {
+        "source_id": "openstax_2",
+        "page": 125,
+        "evidence": "Trans fats are created artificially when hydrogen gas is bubbled through oils to solidify them. The double bonds of the cis conformation in the hydrocarbon chain may be converted to double bonds in the trans configuration. Some restaurants are banning trans fats because they cause higher levels of LDL, or “bad” cholesterol."
+      }
+    ],
+    "expected_answer": "Trans fats are created artificially when hydrogen gas is bubbled through oils to solidify them, converting cis double bonds to trans; restaurants ban them because they cause higher levels of LDL ('bad' cholesterol).",
+    "filter": {
+      "section": "3.E: Biological Macromolecules (Exercises)"
+    }
+  },
+  {
+    "id": "q21",
+    "split": "dev",
+    "question": "What was the exact number of sickle cell anemia cases diagnosed in Vietnam during 2026?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Corpus discusses molecular causes of sickle cell anemia, not 2026 national surveillance data. Full exported corpus scan found neither 2026 nor Vietnam."
+  },
+  {
+    "id": "q22",
+    "split": "dev",
+    "question": "What was the exact restoration budget allocated to Hagia Sophia for 2026?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Corpus discusses historical conversion of Hagia Sophia, not current budgets. Full corpus scan found no 2026 or restoration budget."
+  },
+  {
+    "id": "q23",
+    "split": "test",
+    "question": "What was the adult admission ticket price for Hagia Sophia on November 15, 2026?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Corpus provides historical material, not dated admission prices. Full corpus scan found no 2026 or ticket price; a current price cannot be inferred from historical text."
+  },
+  {
+    "id": "q24",
+    "split": "test",
+    "question": "What is the measured LDL cholesterol value in my latest personal blood test?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Corpus is a public textbook and contains no personal laboratory report or patient record for this user. General biology cannot establish an individual result."
+  }
+]

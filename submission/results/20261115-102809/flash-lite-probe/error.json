@@ -1,0 +1,6 @@
+{
+  "status": "error",
+  "error_type": "ValueError",
+  "message": "Invalid search query",
+  "elapsed_seconds": 2.729211999976542
+}

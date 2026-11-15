@@ -1,0 +1,18 @@
+{
+  "hit1": {
+    "n": 9,
+    "N": 9
+  },
+  "hit3": {
+    "n": 9,
+    "N": 9
+  },
+  "context_hit": {
+    "n": 9,
+    "N": 9
+  },
+  "errors": 2,
+  "answerable_total": 11,
+  "questions_total": 11,
+  "agent_review": "Manual review required"
+}

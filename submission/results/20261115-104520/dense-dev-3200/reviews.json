@@ -1,0 +1,188 @@
+[
+  {
+    "query_id": "q01",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đối chiếu câu trả lời và evidence trong context; ý được hỏi có trong đoạn trích.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q02",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đối chiếu câu trả lời và evidence trong context; ý được hỏi có trong đoạn trích.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q03",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Agent từ chối câu có đáp án.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q04",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đối chiếu câu trả lời và evidence trong context; ý được hỏi có trong đoạn trích.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q05",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đối chiếu câu trả lời và evidence trong context; ý được hỏi có trong đoạn trích.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q06",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đối chiếu câu trả lời và evidence trong context; ý được hỏi có trong đoạn trích.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q07",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Ý thêm về kiểm soát tuyến thương mại không được đoạn citation chứng minh.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q08",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đối chiếu câu trả lời và evidence trong context; ý được hỏi có trong đoạn trích.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q09",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đối chiếu câu trả lời và evidence trong context; ý được hỏi có trong đoạn trích.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q10",
+    "answer_grade": 2,
+    "citation_support": [
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "abstention_correct": null,
+    "reason": "Đối chiếu câu trả lời và evidence trong context; ý được hỏi có trong đoạn trích.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q11",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đối chiếu câu trả lời và evidence trong context; ý được hỏi có trong đoạn trích.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q12",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đối chiếu câu trả lời và evidence trong context; ý được hỏi có trong đoạn trích.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q13",
+    "answer_grade": 1,
+    "citation_support": [
+      false
+    ],
+    "abstention_correct": null,
+    "reason": "Đáp án chính đúng, giải thích thêm về cách đánh số chưa được chứng minh và citation gộp ID sai định dạng.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q14",
+    "answer_grade": 1,
+    "citation_support": [
+      true,
+      true,
+      false,
+      false,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Ý chính đúng nhưng có cơ chế bổ sung chưa được tất cả nguồn chứng minh.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q15",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đối chiếu câu trả lời và evidence trong context; ý được hỏi có trong đoạn trích.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q21",
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Từ chối phù hợp, tài liệu không có thống kê yêu cầu.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q22",
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Từ chối phù hợp, tài liệu không có ngân sách yêu cầu.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  }
+]

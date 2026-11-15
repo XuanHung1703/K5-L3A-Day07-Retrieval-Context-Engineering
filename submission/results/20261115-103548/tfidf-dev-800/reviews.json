@@ -1,0 +1,138 @@
+[
+  {
+    "query_id": "q01",
+    "answer_grade": 0,
+    "citation_support": [],
+    "abstention_correct": null,
+    "reason": "Từ chối câu có đáp án; context không có bằng chứng đầy đủ.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q02",
+    "answer_grade": 0,
+    "citation_support": [],
+    "abstention_correct": null,
+    "reason": "Từ chối câu có đáp án; context không có bằng chứng đầy đủ.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q03",
+    "answer_grade": 0,
+    "citation_support": [],
+    "abstention_correct": null,
+    "reason": "Từ chối câu có đáp án; context không có bằng chứng đầy đủ.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q04",
+    "answer_grade": 0,
+    "citation_support": [],
+    "abstention_correct": null,
+    "reason": "Từ chối câu có đáp án; context không có bằng chứng đầy đủ.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q05",
+    "answer_grade": 0,
+    "citation_support": [],
+    "abstention_correct": null,
+    "reason": "Từ chối câu có đáp án; context không có bằng chứng đầy đủ.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q06",
+    "answer_grade": 0,
+    "citation_support": [],
+    "abstention_correct": null,
+    "reason": "Từ chối câu có đáp án; context không có bằng chứng đầy đủ.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q07",
+    "answer_grade": 0,
+    "citation_support": [],
+    "abstention_correct": null,
+    "reason": "Từ chối câu có đáp án; context không có bằng chứng đầy đủ.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q08",
+    "answer_grade": 0,
+    "citation_support": [],
+    "abstention_correct": null,
+    "reason": "Từ chối câu có đáp án; context không có bằng chứng đầy đủ.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q09",
+    "answer_grade": 0,
+    "citation_support": [],
+    "abstention_correct": null,
+    "reason": "Từ chối câu có đáp án; context không có bằng chứng đầy đủ.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q10",
+    "answer_grade": 0,
+    "citation_support": [],
+    "abstention_correct": null,
+    "reason": "Từ chối câu có đáp án; context không có bằng chứng đầy đủ.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q11",
+    "answer_grade": 0,
+    "citation_support": [],
+    "abstention_correct": null,
+    "reason": "Từ chối câu có đáp án; context không có bằng chứng đầy đủ.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q12",
+    "answer_grade": 0,
+    "citation_support": [],
+    "abstention_correct": null,
+    "reason": "Trả lời không có citation; context chỉ nói liên kết peptide, không chứa đủ bốn thành phần.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q13",
+    "answer_grade": 0,
+    "citation_support": [],
+    "abstention_correct": null,
+    "reason": "Từ chối câu có đáp án; context không có bằng chứng đầy đủ.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q14",
+    "answer_grade": 0,
+    "citation_support": [],
+    "abstention_correct": null,
+    "reason": "Từ chối câu có đáp án; context không có bằng chứng đầy đủ.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q15",
+    "answer_grade": 0,
+    "citation_support": [],
+    "abstention_correct": null,
+    "reason": "Từ chối câu có đáp án; context không có bằng chứng đầy đủ.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q21",
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Từ chối phù hợp khi corpus không có evidence yêu cầu.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  },
+  {
+    "query_id": "q22",
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Từ chối phù hợp khi corpus không có evidence yêu cầu.",
+    "reviewer": "AI review; người học cần kiểm tra độc lập"
+  }
+]

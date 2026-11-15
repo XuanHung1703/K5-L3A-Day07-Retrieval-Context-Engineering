@@ -1,0 +1,12 @@
+{
+  "settings": {
+    "method": "tfidf",
+    "budget": 3200,
+    "agent": true,
+    "model": "gemini-3.5-flash-lite",
+    "data_sha256": "e0665543db493a40fc7f6c50623987a89603d188117de9f98e4c46c940b95a7e",
+    "code_sha256": "745624060996e3e4b7cf9b9f5359e7ce7156d850f0f36004ae88c1bfd65588d3"
+  },
+  "split": "dev",
+  "completed": false
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "query_id": "q16",
+    "baseline_context_grade": 2,
+    "selected_context_grade": 2,
+    "reason": "Cả hai context chứa Carlyle và Tolstoy tại trang 33.",
+    "scope": "Kiểm tra thủ công context retrieval, chưa chấm câu trả lời agent"
+  },
+  {
+    "query_id": "q17",
+    "baseline_context_grade": 0,
+    "selected_context_grade": 2,
+    "reason": "800 chỉ có trang 34; 3200 có khảo sát BBC và thịnh vượng tại trang 16.",
+    "scope": "Kiểm tra thủ công context retrieval, chưa chấm câu trả lời agent"
+  },
+  {
+    "query_id": "q18",
+    "baseline_context_grade": 1,
+    "selected_context_grade": 2,
+    "reason": "800 chỉ nói cấu tạo phospholipid, thiếu hướng đầu/đuôi; 3200 có cả hai tại trang 103.",
+    "scope": "Kiểm tra thủ công context retrieval, chưa chấm câu trả lời agent"
+  },
+  {
+    "query_id": "q19",
+    "baseline_context_grade": 0,
+    "selected_context_grade": 2,
+    "reason": "800 chỉ có câu hỏi về kiến trúc; 3200 có DNA/RNA/protein và ngoại lệ virus tại trang 119.",
+    "scope": "Kiểm tra thủ công context retrieval, chưa chấm câu trả lời agent"
+  },
+  {
+    "query_id": "q20",
+    "baseline_context_grade": 0,
+    "selected_context_grade": 2,
+    "reason": "800 chỉ có mục lục; 3200 có hydro hóa, cis/trans và LDL tại trang 125.",
+    "scope": "Kiểm tra thủ công context retrieval, chưa chấm câu trả lời agent"
+  }
+]

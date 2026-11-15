@@ -1,0 +1,1525 @@
+[
+  {
+    "query_id": "q01",
+    "split": "dev",
+    "question": "Who prepared the seventeenth-century projection map of the world for the German astronomer Johannes Kepler?",
+    "answerable": true,
+    "results": [
+      {
+        "id": "openstax_1_p13_para_0",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 13,
+        "text": "1.1.1 https://human.libretexts.org/@go/page/236417 1.1: Introduction Figure 1.1 The Whole World. This seventeenth-century projection map of the world, prepared by cartographer Philip Eckebrecht for the noted German astronomer Johannes Kepler, gives a sense of the breadth of territory this text will cover. As we see later in this chapter, maps often reflect the maker’s perception of geographical realities. (credit: modification of work “A Modern Depiction of the World” by Library of Congress/Wikimedia Commons, Public Domain) What is history? Is it simply a record of things people have done? Is it what writer Maya Angelou suggested—a way to meet the pain of the past and overcome it? Or is it, as Winston Churchill said, a chronicle by the victors, an interpretation by those who write it? History is all this and more.",
+        "metadata": {
+          "section": "1.1: Introduction"
+        },
+        "score": 0.38800782522409283,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_1_p14_para_2",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 14,
+        "text": "And today we study history in a way that grounds students in this shared past while also preparing them for their futures. The liberal arts are intended to help students find fulfillment, to better themselves and their communities through meaningful self\u0002reflection and development. But they have also always prepared students to enter the workplace by honing career skills. To say that a world history class prepares students for the workplace is simply to acknowledge what has always been true. This world history text has several key features that will help you understand the past in ways that are relevant to the present. Perhaps most important is its recognition that the study of world history prepares us to meet modern challenges. To cover the history of the whole world is daunting, perhaps, but a student must be prepared to engage with the globalization processes that have dominated history for the past few centuries.",
+        "metadata": {
+          "section": "1.2: Developing a Global Perspective"
+        },
+        "score": 0.14128827971959035,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_1_p16_para_1",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 16,
+        "text": "Watch this TED Talk by Hugh Evans and think about the ways this concept resonates with you. Do you see yourself as connected to the world? Is that a positive attribute? Why or why not? Features of This Textbook This text is a great place to begin your journey into the world’s past. It has several features that will help you understand the history of world civilizations from the fifteenth century and the beginning of the early modern period until today. For the most part, it adopts a traditional chronological approach, studying events in roughly the order in which they took place. The first few chapters will explore changes that took place in particular regions of the world in the fifteenth through seventeenth centuries. In Exchange in East Asia and the Indian Ocean, you will learn about the civilizations that were connected through Indian and Pacific Ocean trade —India, Malaysia, Indonesia, China, and Japan.",
+        "metadata": {
+          "section": "1.2: Developing a Global Perspective"
+        },
+        "score": 0.13683299817768932,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[openstax_1_p13_para_0 | openstax_1 | page 13]\n1.1.1 https://human.libretexts.org/@go/page/236417 1.1: Introduction Figure 1.1 The Whole World. This seventeenth-century projection map of the world, prepared by cartographer Philip Eckebrecht for the noted German astronomer Johannes Kepler, gives a sense of the breadth of territory this text will cover. As we see later in this chapter, maps often reflect the maker’s perception of geographical realities. (credit: modification of work “A Modern Depiction of the World” by Library of Congress/Wikimedia Commons, Public Domain) What is history? Is it simply a record of things people have done? Is it what writer Maya Angelou suggested—a way to meet the pain of the past and overcome it? Or is it, as Winston Churchill said, a chronicle by the victors, an interpretation by those who write it? History is all this and more.\n\n[openstax_1_p14_para_2 | openstax_1 | page 14]\nAnd today we study history in a way that grounds students in this shared past while also preparing them for their futures. The liberal arts are intended to help students find fulfillment, to better themselves and their communities through meaningful self\u0002reflection and development. But they have also always prepared students to enter the workplace by honing career skills. To say that a world history class prepares students for the workplace is simply to acknowledge what has always been true. This world history text has several key features that will help you understand the past in ways that are relevant to the present. Perhaps most important is its recognition that the study of world history prepares us to meet modern challenges. To cover the history of the whole world is daunting, perhaps, but a student must be prepared to engage with the globalization processes that have dominated history for the past few centuries.\n\n[openstax_1_p16_para_1 | openstax_1 | page 16]\nWatch this TED Talk by Hugh Evans and think about the ways this concept resonates with you. Do you see yourself as connected to the world? Is that a positive attribute? Why or why not? Features of This Textbook This text is a great place to begin your journey into the world’s past. It has several features that will help you understand the history of world civilizations from the fifteenth century and the beginning of the early modern period until today. For the most part, it adopts a traditional chronological approach, studying events in roughly the order in which they took place. The first few chapters will explore changes that took place in particular regions of the world in the fifteenth through seventeenth centuries. In Exchange in East Asia and the Indian Ocean, you will learn about the civilizations that were connected through Indian and Pacific Ocean trade —India, Malaysia, Indonesia, China, and Japan.",
+    "context_ids": [
+      "openstax_1_p13_para_0",
+      "openstax_1_p14_para_2",
+      "openstax_1_p16_para_1"
+    ],
+    "status": "answered",
+    "answer": "The seventeenth-century projection map of the world for Johannes Kepler was prepared by cartographer Philip Eckebrecht [openstax_1_p13_para_0].",
+    "citations": [
+      "openstax_1_p13_para_0"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Johannes Kepler seventeenth century projection map of the world prepared by",
+        "results": [
+          {
+            "id": "openstax_1_p13_para_0",
+            "source_id": "openstax_1",
+            "source": "openstax_1",
+            "page": 13,
+            "text": "1.1.1 https://human.libretexts.org/@go/page/236417 1.1: Introduction Figure 1.1 The Whole World. This seventeenth-century projection map of the world, prepared by cartographer Philip Eckebrecht for the noted German astronomer Johannes Kepler, gives a sense of the breadth of territory this text will cover. As we see later in this chapter, maps often reflect the maker’s perception of geographical realities. (credit: modification of work “A Modern Depiction of the World” by Library of Congress/Wikimedia Commons, Public Domain) What is history? Is it simply a record of things people have done? Is it what writer Maya Angelou suggested—a way to meet the pain of the past and overcome it? Or is it, as Winston Churchill said, a chronicle by the victors, an interpretation by those who write it? History is all this and more.",
+            "metadata": {
+              "section": "1.1: Introduction"
+            },
+            "score": 0.34244837693988944,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "openstax_1_p14_para_2",
+            "source_id": "openstax_1",
+            "source": "openstax_1",
+            "page": 14,
+            "text": "And today we study history in a way that grounds students in this shared past while also preparing them for their futures. The liberal arts are intended to help students find fulfillment, to better themselves and their communities through meaningful self\u0002reflection and development. But they have also always prepared students to enter the workplace by honing career skills. To say that a world history class prepares students for the workplace is simply to acknowledge what has always been true. This world history text has several key features that will help you understand the past in ways that are relevant to the present. Perhaps most important is its recognition that the study of world history prepares us to meet modern challenges. To cover the history of the whole world is daunting, perhaps, but a student must be prepared to engage with the globalization processes that have dominated history for the past few centuries.",
+            "metadata": {
+              "section": "1.2: Developing a Global Perspective"
+            },
+            "score": 0.1290673025177017,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "openstax_1_p16_para_1",
+            "source_id": "openstax_1",
+            "source": "openstax_1",
+            "page": 16,
+            "text": "Watch this TED Talk by Hugh Evans and think about the ways this concept resonates with you. Do you see yourself as connected to the world? Is that a positive attribute? Why or why not? Features of This Textbook This text is a great place to begin your journey into the world’s past. It has several features that will help you understand the history of world civilizations from the fifteenth century and the beginning of the early modern period until today. For the most part, it adopts a traditional chronological approach, studying events in roughly the order in which they took place. The first few chapters will explore changes that took place in particular regions of the world in the fifteenth through seventeenth centuries. In Exchange in East Asia and the Indian Ocean, you will learn about the civilizations that were connected through Indian and Pacific Ocean trade —India, Malaysia, Indonesia, China, and Japan.",
+            "metadata": {
+              "section": "1.2: Developing a Global Perspective"
+            },
+            "score": 0.11991259426278972,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[openstax_1_p13_para_0 | openstax_1 | page 13]\n1.1.1 https://human.libretexts.org/@go/page/236417 1.1: Introduction Figure 1.1 The Whole World. This seventeenth-century projection map of the world, prepared by cartographer Philip Eckebrecht for the noted German astronomer Johannes Kepler, gives a sense of the breadth of territory this text will cover. As we see later in this chapter, maps often reflect the maker’s perception of geographical realities. (credit: modification of work “A Modern Depiction of the World” by Library of Congress/Wikimedia Commons, Public Domain) What is history? Is it simply a record of things people have done? Is it what writer Maya Angelou suggested—a way to meet the pain of the past and overcome it? Or is it, as Winston Churchill said, a chronicle by the victors, an interpretation by those who write it? History is all this and more.\n\n[openstax_1_p14_para_2 | openstax_1 | page 14]\nAnd today we study history in a way that grounds students in this shared past while also preparing them for their futures. The liberal arts are intended to help students find fulfillment, to better themselves and their communities through meaningful self\u0002reflection and development. But they have also always prepared students to enter the workplace by honing career skills. To say that a world history class prepares students for the workplace is simply to acknowledge what has always been true. This world history text has several key features that will help you understand the past in ways that are relevant to the present. Perhaps most important is its recognition that the study of world history prepares us to meet modern challenges. To cover the history of the whole world is daunting, perhaps, but a student must be prepared to engage with the globalization processes that have dominated history for the past few centuries.\n\n[openstax_1_p16_para_1 | openstax_1 | page 16]\nWatch this TED Talk by Hugh Evans and think about the ways this concept resonates with you. Do you see yourself as connected to the world? Is that a positive attribute? Why or why not? Features of This Textbook This text is a great place to begin your journey into the world’s past. It has several features that will help you understand the history of world civilizations from the fifteenth century and the beginning of the early modern period until today. For the most part, it adopts a traditional chronological approach, studying events in roughly the order in which they took place. The first few chapters will explore changes that took place in particular regions of the world in the fifteenth through seventeenth centuries. In Exchange in East Asia and the Indian Ocean, you will learn about the civilizations that were connected through Indian and Pacific Ocean trade —India, Malaysia, Indonesia, China, and Japan.",
+        "context_ids": [
+          "openstax_1_p13_para_0",
+          "openstax_1_p14_para_2",
+          "openstax_1_p16_para_1"
+        ]
+      }
+    ],
+    "usage": [
+      {
+        "cache_tokens_details": null,
+        "cached_content_token_count": null,
+        "candidates_token_count": 24,
+        "candidates_tokens_details": null,
+        "prompt_token_count": 108,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 108
+          }
+        ],
+        "thoughts_token_count": null,
+        "tool_use_prompt_token_count": null,
+        "tool_use_prompt_tokens_details": null,
+        "total_token_count": 132,
+        "traffic_type": null
+      },
+      {
+        "cache_tokens_details": null,
+        "cached_content_token_count": null,
+        "candidates_token_count": 36,
+        "candidates_tokens_details": null,
+        "prompt_token_count": 755,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 755
+          }
+        ],
+        "thoughts_token_count": null,
+        "tool_use_prompt_token_count": null,
+        "tool_use_prompt_tokens_details": null,
+        "total_token_count": 791,
+        "traffic_type": null
+      }
+    ],
+    "model": "gemini-3.5-flash-lite",
+    "service_cost_usd": null,
+    "cost_note": "Use usage tokens and current provider billing; no fabricated cost",
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "elapsed_seconds": 2.6685226000263356
+  },
+  {
+    "query_id": "q02",
+    "split": "dev",
+    "question": "According to the World Economic Forum, what are two of the top skills employers will value in 2025?",
+    "answerable": true,
+    "results": [
+      {
+        "id": "openstax_1_p15_para_0",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 15,
+        "text": "1.2.2 https://human.libretexts.org/@go/page/236418 Figure 1.2 Do You Have These Skills? The top skills employers will value in 2025, according to the World Economic Forum, include innovative inquiry and creative thinking. You will develop and practice many of these skills in this course. (CC BY 4.0; Rice University & OpenStax) Without question, skills such as critical thinking, analysis, and creativity are developed best through the study of history. Historians must be truly multidisciplinary in the sense that they observe and gather as much information as they can and then interpret that data with the aim of drawing conclusions. The historian also must be a creative thinker because the source material—the data—is human, making it the most complex data imaginable. Historical data is as diverse as the people who make it, and it might be everything from the edicts of kings to the tunes played by street musicians. Historians must also be effective communicators.",
+        "metadata": {
+          "section": "1.2: Developing a Global Perspective"
+        },
+        "score": 0.3531594761138677,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_1_p14_para_3",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 14,
+        "text": "People around the globe are more integrated than ever by social and economic forces that transcend national boundaries. Both your private and public lives will require knowledge of the world and its people. Understanding the diversity of peoples and ideas and possessing cultural empathy and awareness will allow you to meet global complexities with competence. The study of history will also enhance your critical-thinking and analytical ability, both of which consistently appear among the top ten skills desired by employers (Figure 1.2). Other skills that have become increasingly important include adaptive thinking, social intelligence, cross-cultural competency, and media literacy. This final skill is critical to modern workplaces. History teaches students how to assess and analyze the material they are reading, as well as how to develop and present content in a meaningful and persuasive way.",
+        "metadata": {
+          "section": "1.2: Developing a Global Perspective"
+        },
+        "score": 0.21760415744385242,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_1_p37_para_0",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 37,
+        "text": "1.6.1 https://human.libretexts.org/@go/page/236422 1.6: Section Summary -ny9bj0-0 hwsygj page-content\" tabindex=\"0\"> 1.1 Developing a Global Perspective Knowing the past, the human story, has long been considered a mark of civilization, and its study has never been more important. The study of world history provides the skills necessary to meet global workforce needs while at the same time developing a sense of self and place in our global community. You will gain critical-thinking and analysis skills that will help you fulfill the role of a global citizen in our interconnected world. This text will help you approach history with an open mind, and it will engage you in meaningful ways, often highlighting content that remains relevant in today’s society. 1.2 Primary Sources Primary sources are the first-hand evidence with which historians form a foundation of knowledge of the past.",
+        "metadata": {
+          "section": "1.6: Section Summary"
+        },
+        "score": 0.1394750946752728,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[openstax_1_p15_para_0 | openstax_1 | page 15]\n1.2.2 https://human.libretexts.org/@go/page/236418 Figure 1.2 Do You Have These Skills? The top skills employers will value in 2025, according to the World Economic Forum, include innovative inquiry and creative thinking. You will develop and practice many of these skills in this course. (CC BY 4.0; Rice University & OpenStax) Without question, skills such as critical thinking, analysis, and creativity are developed best through the study of history. Historians must be truly multidisciplinary in the sense that they observe and gather as much information as they can and then interpret that data with the aim of drawing conclusions. The historian also must be a creative thinker because the source material—the data—is human, making it the most complex data imaginable. Historical data is as diverse as the people who make it, and it might be everything from the edicts of kings to the tunes played by street musicians. Historians must also be effective communicators.\n\n[openstax_1_p14_para_3 | openstax_1 | page 14]\nPeople around the globe are more integrated than ever by social and economic forces that transcend national boundaries. Both your private and public lives will require knowledge of the world and its people. Understanding the diversity of peoples and ideas and possessing cultural empathy and awareness will allow you to meet global complexities with competence. The study of history will also enhance your critical-thinking and analytical ability, both of which consistently appear among the top ten skills desired by employers (Figure 1.2). Other skills that have become increasingly important include adaptive thinking, social intelligence, cross-cultural competency, and media literacy. This final skill is critical to modern workplaces. History teaches students how to assess and analyze the material they are reading, as well as how to develop and present content in a meaningful and persuasive way.\n\n[openstax_1_p37_para_0 | openstax_1 | page 37]\n1.6.1 https://human.libretexts.org/@go/page/236422 1.6: Section Summary -ny9bj0-0 hwsygj page-content\" tabindex=\"0\"> 1.1 Developing a Global Perspective Knowing the past, the human story, has long been considered a mark of civilization, and its study has never been more important. The study of world history provides the skills necessary to meet global workforce needs while at the same time developing a sense of self and place in our global community. You will gain critical-thinking and analysis skills that will help you fulfill the role of a global citizen in our interconnected world. This text will help you approach history with an open mind, and it will engage you in meaningful ways, often highlighting content that remains relevant in today’s society. 1.2 Primary Sources Primary sources are the first-hand evidence with which historians form a foundation of knowledge of the past.",
+    "context_ids": [
+      "openstax_1_p15_para_0",
+      "openstax_1_p14_para_3",
+      "openstax_1_p37_para_0"
+    ],
+    "status": "answered",
+    "answer": "According to the World Economic Forum, two of the top skills employers will value in 2025 include **innovative inquiry** and **creative thinking** [openstax_1_p15_para_0].",
+    "citations": [
+      "openstax_1_p15_para_0"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "World Economic Forum top skills employers will value in 2025",
+        "results": [
+          {
+            "id": "openstax_1_p15_para_0",
+            "source_id": "openstax_1",
+            "source": "openstax_1",
+            "page": 15,
+            "text": "1.2.2 https://human.libretexts.org/@go/page/236418 Figure 1.2 Do You Have These Skills? The top skills employers will value in 2025, according to the World Economic Forum, include innovative inquiry and creative thinking. You will develop and practice many of these skills in this course. (CC BY 4.0; Rice University & OpenStax) Without question, skills such as critical thinking, analysis, and creativity are developed best through the study of history. Historians must be truly multidisciplinary in the sense that they observe and gather as much information as they can and then interpret that data with the aim of drawing conclusions. The historian also must be a creative thinker because the source material—the data—is human, making it the most complex data imaginable. Historical data is as diverse as the people who make it, and it might be everything from the edicts of kings to the tunes played by street musicians. Historians must also be effective communicators.",
+            "metadata": {
+              "section": "1.2: Developing a Global Perspective"
+            },
+            "score": 0.3164806608655579,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "openstax_1_p14_para_3",
+            "source_id": "openstax_1",
+            "source": "openstax_1",
+            "page": 14,
+            "text": "People around the globe are more integrated than ever by social and economic forces that transcend national boundaries. Both your private and public lives will require knowledge of the world and its people. Understanding the diversity of peoples and ideas and possessing cultural empathy and awareness will allow you to meet global complexities with competence. The study of history will also enhance your critical-thinking and analytical ability, both of which consistently appear among the top ten skills desired by employers (Figure 1.2). Other skills that have become increasingly important include adaptive thinking, social intelligence, cross-cultural competency, and media literacy. This final skill is critical to modern workplaces. History teaches students how to assess and analyze the material they are reading, as well as how to develop and present content in a meaningful and persuasive way.",
+            "metadata": {
+              "section": "1.2: Developing a Global Perspective"
+            },
+            "score": 0.1987785022792445,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "openstax_1_p37_para_0",
+            "source_id": "openstax_1",
+            "source": "openstax_1",
+            "page": 37,
+            "text": "1.6.1 https://human.libretexts.org/@go/page/236422 1.6: Section Summary -ny9bj0-0 hwsygj page-content\" tabindex=\"0\"> 1.1 Developing a Global Perspective Knowing the past, the human story, has long been considered a mark of civilization, and its study has never been more important. The study of world history provides the skills necessary to meet global workforce needs while at the same time developing a sense of self and place in our global community. You will gain critical-thinking and analysis skills that will help you fulfill the role of a global citizen in our interconnected world. This text will help you approach history with an open mind, and it will engage you in meaningful ways, often highlighting content that remains relevant in today’s society. 1.2 Primary Sources Primary sources are the first-hand evidence with which historians form a foundation of knowledge of the past.",
+            "metadata": {
+              "section": "1.6: Section Summary"
+            },
+            "score": 0.11330757458743822,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[openstax_1_p15_para_0 | openstax_1 | page 15]\n1.2.2 https://human.libretexts.org/@go/page/236418 Figure 1.2 Do You Have These Skills? The top skills employers will value in 2025, according to the World Economic Forum, include innovative inquiry and creative thinking. You will develop and practice many of these skills in this course. (CC BY 4.0; Rice University & OpenStax) Without question, skills such as critical thinking, analysis, and creativity are developed best through the study of history. Historians must be truly multidisciplinary in the sense that they observe and gather as much information as they can and then interpret that data with the aim of drawing conclusions. The historian also must be a creative thinker because the source material—the data—is human, making it the most complex data imaginable. Historical data is as diverse as the people who make it, and it might be everything from the edicts of kings to the tunes played by street musicians. Historians must also be effective communicators.\n\n[openstax_1_p14_para_3 | openstax_1 | page 14]\nPeople around the globe are more integrated than ever by social and economic forces that transcend national boundaries. Both your private and public lives will require knowledge of the world and its people. Understanding the diversity of peoples and ideas and possessing cultural empathy and awareness will allow you to meet global complexities with competence. The study of history will also enhance your critical-thinking and analytical ability, both of which consistently appear among the top ten skills desired by employers (Figure 1.2). Other skills that have become increasingly important include adaptive thinking, social intelligence, cross-cultural competency, and media literacy. This final skill is critical to modern workplaces. History teaches students how to assess and analyze the material they are reading, as well as how to develop and present content in a meaningful and persuasive way.\n\n[openstax_1_p37_para_0 | openstax_1 | page 37]\n1.6.1 https://human.libretexts.org/@go/page/236422 1.6: Section Summary -ny9bj0-0 hwsygj page-content\" tabindex=\"0\"> 1.1 Developing a Global Perspective Knowing the past, the human story, has long been considered a mark of civilization, and its study has never been more important. The study of world history provides the skills necessary to meet global workforce needs while at the same time developing a sense of self and place in our global community. You will gain critical-thinking and analysis skills that will help you fulfill the role of a global citizen in our interconnected world. This text will help you approach history with an open mind, and it will engage you in meaningful ways, often highlighting content that remains relevant in today’s society. 1.2 Primary Sources Primary sources are the first-hand evidence with which historians form a foundation of knowledge of the past.",
+        "context_ids": [
+          "openstax_1_p15_para_0",
+          "openstax_1_p14_para_3",
+          "openstax_1_p37_para_0"
+        ]
+      }
+    ],
+    "usage": [
+      {
+        "cache_tokens_details": null,
+        "cached_content_token_count": null,
+        "candidates_token_count": 27,
+        "candidates_tokens_details": null,
+        "prompt_token_count": 114,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 114
+          }
+        ],
+        "thoughts_token_count": null,
+        "tool_use_prompt_token_count": null,
+        "tool_use_prompt_tokens_details": null,
+        "total_token_count": 141,
+        "traffic_type": null
+      },
+      {
+        "cache_tokens_details": null,
+        "cached_content_token_count": null,
+        "candidates_token_count": 47,
+        "candidates_tokens_details": null,
+        "prompt_token_count": 801,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 801
+          }
+        ],
+        "thoughts_token_count": null,
+        "tool_use_prompt_token_count": null,
+        "tool_use_prompt_tokens_details": null,
+        "total_token_count": 848,
+        "traffic_type": null
+      }
+    ],
+    "model": "gemini-3.5-flash-lite",
+    "service_cost_usd": null,
+    "cost_note": "Use usage tokens and current provider billing; no fabricated cost",
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "elapsed_seconds": 2.0545226000249386
+  },
+  {
+    "query_id": "q03",
+    "split": "dev",
+    "question": "Which former US First Lady headed the committee responsible for drafting the UN Universal Declaration of Human Rights?",
+    "answerable": true,
+    "results": [
+      {
+        "id": "openstax_1_p16_para_0",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 16,
+        "text": "1.2.3 https://human.libretexts.org/@go/page/236418 Figure 1.3 Human Rights, Codified. Eleanor Roosevelt is shown holding a poster of the UN Universal Declaration of Human Rights in November 1949. Roosevelt, the former First Lady of the United States, chaired the committee that drafted the declaration. (credit: “Eleanor Roosevelt UDHR” by FDR Presidential Library & Museum/Flickr, CC BY 2.0) A BBC poll in 2015–2016 surveyed eighteen countries and found that more than half the respondents believed themselves to be “global citizens.” It also found that in times of prosperity, sentiments favoring a world community grow, while in times of strife, people tend to revert to more local, national identities. Though no one can see the future, it is difficult to imagine turning the clock back on the processes of globalization. Whether you would like to be a global citizen of the world or not, understanding the world is essential. What does it mean to be a citizen of the world?",
+        "metadata": {
+          "section": "1.2: Developing a Global Perspective"
+        },
+        "score": 0.3287657796981766,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_1_p15_para_3",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 15,
+        "text": "Beginning in 1948, the United Nations (UN) established a series of universal declarations that conceived of all people as deserving of human rights and dignity (Figure 1.3). Three such declarations further affirmed the rights of women (Convention on the Elimination of All Forms of Discrimination Against Women, also known as CEDAW, 1979), of children (The Declaration of the Rights of the Child, 1959), and of people with disabilities (The Declaration on the Rights of Disabled Persons, 1975). The UN regularly requires that member nations report on progress in these areas. Words and declarations help to create an ethos, a set of guiding principles. So, in addition to participating in global economies that transcend lines on a map, many in our world recognize that we have also agreed to a series of rights and obligations that do the same.",
+        "metadata": {
+          "section": "1.2: Developing a Global Perspective"
+        },
+        "score": 0.31533915519396005,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_1_p20_para_0",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 20,
+        "text": "1.3.2 https://human.libretexts.org/@go/page/236419 1. What kind of source is it? Government documents have a different purpose than personal diaries. A former president commenting on a political issue has a different view from a comedian doing the same. 2. Who authored the source and why? Is the author responsible for simply recording the information, or was the author involved in the event? Is the author reliable, or does the author have an agenda? 3. What is the historical context? How does the source relate to the events covered in the chapter? None of the answers disqualify a source from adding value, but precisely what that source brings to the overall picture depends heavily on those answers. This is a presentation on working with primary sources produced by the Smithsonian. Pay particular attention to section 2, “Documents.” Read through it and take note of the kinds of questions to ask as you critically assess primary sources.",
+        "metadata": {
+          "section": "1.3: Primary Sources"
+        },
+        "score": 0.11125694153967261,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[openstax_1_p16_para_0 | openstax_1 | page 16]\n1.2.3 https://human.libretexts.org/@go/page/236418 Figure 1.3 Human Rights, Codified. Eleanor Roosevelt is shown holding a poster of the UN Universal Declaration of Human Rights in November 1949. Roosevelt, the former First Lady of the United States, chaired the committee that drafted the declaration. (credit: “Eleanor Roosevelt UDHR” by FDR Presidential Library & Museum/Flickr, CC BY 2.0) A BBC poll in 2015–2016 surveyed eighteen countries and found that more than half the respondents believed themselves to be “global citizens.” It also found that in times of prosperity, sentiments favoring a world community grow, while in times of strife, people tend to revert to more local, national identities. Though no one can see the future, it is difficult to imagine turning the clock back on the processes of globalization. Whether you would like to be a global citizen of the world or not, understanding the world is essential. What does it mean to be a citizen of the world?\n\n[openstax_1_p15_para_3 | openstax_1 | page 15]\nBeginning in 1948, the United Nations (UN) established a series of universal declarations that conceived of all people as deserving of human rights and dignity (Figure 1.3). Three such declarations further affirmed the rights of women (Convention on the Elimination of All Forms of Discrimination Against Women, also known as CEDAW, 1979), of children (The Declaration of the Rights of the Child, 1959), and of people with disabilities (The Declaration on the Rights of Disabled Persons, 1975). The UN regularly requires that member nations report on progress in these areas. Words and declarations help to create an ethos, a set of guiding principles. So, in addition to participating in global economies that transcend lines on a map, many in our world recognize that we have also agreed to a series of rights and obligations that do the same.\n\n[openstax_1_p25_para_0 | openstax_1 | page 25]\n1.3.7 https://human.libretexts.org/@go/page/236419 offspring to the captivity and the pollution of the mill: they rouse them in the winter morning, which, as the poor father says before the Lords' Committee, they \"feel very sorry\" to do—they receive them fatigued and exhausted, many a weary hour after the day has closed—they see them droop and sicken, and, in many cases, become cripples and die, before they reach their prime: and they do all this, because they must otherwise suffer unrelieved, and starve. —Michael Sadler, speech to the House of Commons, March 16, 1832, as recorded in the Hansard [Mr. John T. Hope] doubted, in the first place, whether a case of necessity for parliamentary interference was fairly made out. . . . It was obvious, that if they limited the hours of labour, they would, to nearly the same extent, reduce the profits of the capital on which the labour was employed.",
+    "context_ids": [
+      "openstax_1_p16_para_0",
+      "openstax_1_p15_para_3",
+      "openstax_1_p25_para_0"
+    ],
+    "status": "answered",
+    "answer": "Eleanor Roosevelt headed the committee responsible for drafting the UN Universal Declaration of Human Rights [openstax_1_p16_para_0].",
+    "citations": [
+      "openstax_1_p16_para_0"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "UN Universal Declaration of Human Rights drafting committee former US First Lady",
+        "results": [
+          {
+            "id": "openstax_1_p16_para_0",
+            "source_id": "openstax_1",
+            "source": "openstax_1",
+            "page": 16,
+            "text": "1.2.3 https://human.libretexts.org/@go/page/236418 Figure 1.3 Human Rights, Codified. Eleanor Roosevelt is shown holding a poster of the UN Universal Declaration of Human Rights in November 1949. Roosevelt, the former First Lady of the United States, chaired the committee that drafted the declaration. (credit: “Eleanor Roosevelt UDHR” by FDR Presidential Library & Museum/Flickr, CC BY 2.0) A BBC poll in 2015–2016 surveyed eighteen countries and found that more than half the respondents believed themselves to be “global citizens.” It also found that in times of prosperity, sentiments favoring a world community grow, while in times of strife, people tend to revert to more local, national identities. Though no one can see the future, it is difficult to imagine turning the clock back on the processes of globalization. Whether you would like to be a global citizen of the world or not, understanding the world is essential. What does it mean to be a citizen of the world?",
+            "metadata": {
+              "section": "1.2: Developing a Global Perspective"
+            },
+            "score": 0.3203916777289317,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "openstax_1_p15_para_3",
+            "source_id": "openstax_1",
+            "source": "openstax_1",
+            "page": 15,
+            "text": "Beginning in 1948, the United Nations (UN) established a series of universal declarations that conceived of all people as deserving of human rights and dignity (Figure 1.3). Three such declarations further affirmed the rights of women (Convention on the Elimination of All Forms of Discrimination Against Women, also known as CEDAW, 1979), of children (The Declaration of the Rights of the Child, 1959), and of people with disabilities (The Declaration on the Rights of Disabled Persons, 1975). The UN regularly requires that member nations report on progress in these areas. Words and declarations help to create an ethos, a set of guiding principles. So, in addition to participating in global economies that transcend lines on a map, many in our world recognize that we have also agreed to a series of rights and obligations that do the same.",
+            "metadata": {
+              "section": "1.2: Developing a Global Perspective"
+            },
+            "score": 0.31147587540360827,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "openstax_1_p25_para_0",
+            "source_id": "openstax_1",
+            "source": "openstax_1",
+            "page": 25,
+            "text": "1.3.7 https://human.libretexts.org/@go/page/236419 offspring to the captivity and the pollution of the mill: they rouse them in the winter morning, which, as the poor father says before the Lords' Committee, they \"feel very sorry\" to do—they receive them fatigued and exhausted, many a weary hour after the day has closed—they see them droop and sicken, and, in many cases, become cripples and die, before they reach their prime: and they do all this, because they must otherwise suffer unrelieved, and starve. —Michael Sadler, speech to the House of Commons, March 16, 1832, as recorded in the Hansard [Mr. John T. Hope] doubted, in the first place, whether a case of necessity for parliamentary interference was fairly made out. . . . It was obvious, that if they limited the hours of labour, they would, to nearly the same extent, reduce the profits of the capital on which the labour was employed.",
+            "metadata": {
+              "section": "1.3: Primary Sources"
+            },
+            "score": 0.06145896561210939,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[openstax_1_p16_para_0 | openstax_1 | page 16]\n1.2.3 https://human.libretexts.org/@go/page/236418 Figure 1.3 Human Rights, Codified. Eleanor Roosevelt is shown holding a poster of the UN Universal Declaration of Human Rights in November 1949. Roosevelt, the former First Lady of the United States, chaired the committee that drafted the declaration. (credit: “Eleanor Roosevelt UDHR” by FDR Presidential Library & Museum/Flickr, CC BY 2.0) A BBC poll in 2015–2016 surveyed eighteen countries and found that more than half the respondents believed themselves to be “global citizens.” It also found that in times of prosperity, sentiments favoring a world community grow, while in times of strife, people tend to revert to more local, national identities. Though no one can see the future, it is difficult to imagine turning the clock back on the processes of globalization. Whether you would like to be a global citizen of the world or not, understanding the world is essential. What does it mean to be a citizen of the world?\n\n[openstax_1_p15_para_3 | openstax_1 | page 15]\nBeginning in 1948, the United Nations (UN) established a series of universal declarations that conceived of all people as deserving of human rights and dignity (Figure 1.3). Three such declarations further affirmed the rights of women (Convention on the Elimination of All Forms of Discrimination Against Women, also known as CEDAW, 1979), of children (The Declaration of the Rights of the Child, 1959), and of people with disabilities (The Declaration on the Rights of Disabled Persons, 1975). The UN regularly requires that member nations report on progress in these areas. Words and declarations help to create an ethos, a set of guiding principles. So, in addition to participating in global economies that transcend lines on a map, many in our world recognize that we have also agreed to a series of rights and obligations that do the same.\n\n[openstax_1_p25_para_0 | openstax_1 | page 25]\n1.3.7 https://human.libretexts.org/@go/page/236419 offspring to the captivity and the pollution of the mill: they rouse them in the winter morning, which, as the poor father says before the Lords' Committee, they \"feel very sorry\" to do—they receive them fatigued and exhausted, many a weary hour after the day has closed—they see them droop and sicken, and, in many cases, become cripples and die, before they reach their prime: and they do all this, because they must otherwise suffer unrelieved, and starve. —Michael Sadler, speech to the House of Commons, March 16, 1832, as recorded in the Hansard [Mr. John T. Hope] doubted, in the first place, whether a case of necessity for parliamentary interference was fairly made out. . . . It was obvious, that if they limited the hours of labour, they would, to nearly the same extent, reduce the profits of the capital on which the labour was employed.",
+        "context_ids": [
+          "openstax_1_p16_para_0",
+          "openstax_1_p15_para_3",
+          "openstax_1_p25_para_0"
+        ]
+      }
+    ],
+    "usage": [
+      {
+        "cache_tokens_details": null,
+        "cached_content_token_count": null,
+        "candidates_token_count": 25,
+        "candidates_tokens_details": null,
+        "prompt_token_count": 109,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 109
+          }
+        ],
+        "thoughts_token_count": null,
+        "tool_use_prompt_token_count": null,
+        "tool_use_prompt_tokens_details": null,
+        "total_token_count": 134,
+        "traffic_type": null
+      },
+      {
+        "cache_tokens_details": null,
+        "cached_content_token_count": null,
+        "candidates_token_count": 31,
+        "candidates_tokens_details": null,
+        "prompt_token_count": 854,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 854
+          }
+        ],
+        "thoughts_token_count": null,
+        "tool_use_prompt_token_count": null,
+        "tool_use_prompt_tokens_details": null,
+        "total_token_count": 885,
+        "traffic_type": null
+      }
+    ],
+    "model": "gemini-3.5-flash-lite",
+    "service_cost_usd": null,
+    "cost_note": "Use usage tokens and current provider billing; no fabricated cost",
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "elapsed_seconds": 1.705306699994253
+  },
+  {
+    "query_id": "q04",
+    "split": "dev",
+    "question": "How do inaccurate world maps often distort the size of Europe compared to the Global South?",
+    "answerable": true,
+    "results": [
+      {
+        "id": "openstax_1_p18_para_0",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 18,
+        "text": "1.2.5 https://human.libretexts.org/@go/page/236418 inaccurate, often showing Europe as larger than it is and regions of the Global South—Latin America, Africa, and parts of Asia and Oceania—as smaller than their actual size. Maps also present challenges because some territories are claimed by more than one political entity. There are many examples in the distant past, and even today, of contested regions, such as Crimea and Taiwan, that can make presenting regional geographies difficult. Crimea is claimed by both Russia and Ukraine, and Taiwan claims independence while China considers Taiwan part of its territory. The text will highlight these regions as they arise in the human story so you can explore geography’s complexities. For a perspective on how Google Earth reflects the globalization of society, read “World Maps and the Dawn of Globalisation” by Jerry Brotton, a cultural historian and author of The History of the World in Twelve Maps.",
+        "metadata": {
+          "section": "1.2: Developing a Global Perspective"
+        },
+        "score": 0.27421417920320235,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_1_p15_para_2",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 15,
+        "text": "Learning how to respect, communicate and collaborate with an increasingly diverse work culture is crucial to optimizing a company’s efficiency and productivity.” World History and Global Citizenship The study of world history recognizes the integrated nature of modern life and prepares students for diverse, global workplaces. Knowing about the world will prepare you to be a global citizen, someone who may reside in only one nation but who self\u0002identifies as part of the larger world community. Issues in need of solutions, like climate change, social justice, and human rights, are global in scale. You must know the world to be the change it needs. How do you fit in the global environment? What is your story, and how is it linked to that of others? In many ways, the idea of global citizenship emerged from the human wreckage of the two world wars.",
+        "metadata": {
+          "section": "1.2: Developing a Global Perspective"
+        },
+        "score": 0.22784032748057612,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_1_p17_para_5",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 17,
+        "text": "Even when humanity acquired knowledge of the size and space of things, maps remained",
+        "metadata": {
+          "section": "1.2: Developing a Global Perspective"
+        },
+        "score": 0.19633977224421248,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[openstax_1_p18_para_0 | openstax_1 | page 18]\n1.2.5 https://human.libretexts.org/@go/page/236418 inaccurate, often showing Europe as larger than it is and regions of the Global South—Latin America, Africa, and parts of Asia and Oceania—as smaller than their actual size. Maps also present challenges because some territories are claimed by more than one political entity. There are many examples in the distant past, and even today, of contested regions, such as Crimea and Taiwan, that can make presenting regional geographies difficult. Crimea is claimed by both Russia and Ukraine, and Taiwan claims independence while China considers Taiwan part of its territory. The text will highlight these regions as they arise in the human story so you can explore geography’s complexities. For a perspective on how Google Earth reflects the globalization of society, read “World Maps and the Dawn of Globalisation” by Jerry Brotton, a cultural historian and author of The History of the World in Twelve Maps.\n\n[openstax_1_p17_para_5 | openstax_1 | page 17]\nEven when humanity acquired knowledge of the size and space of things, maps remained\n\n[openstax_1_p15_para_2 | openstax_1 | page 15]\nLearning how to respect, communicate and collaborate with an increasingly diverse work culture is crucial to optimizing a company’s efficiency and productivity.” World History and Global Citizenship The study of world history recognizes the integrated nature of modern life and prepares students for diverse, global workplaces. Knowing about the world will prepare you to be a global citizen, someone who may reside in only one nation but who self\u0002identifies as part of the larger world community. Issues in need of solutions, like climate change, social justice, and human rights, are global in scale. You must know the world to be the change it needs. How do you fit in the global environment? What is your story, and how is it linked to that of others? In many ways, the idea of global citizenship emerged from the human wreckage of the two world wars.",
+    "context_ids": [
+      "openstax_1_p18_para_0",
+      "openstax_1_p17_para_5",
+      "openstax_1_p15_para_2"
+    ],
+    "status": "answered",
+    "answer": "Inaccurate world maps often distort the size of regions by portraying Europe as larger than it actually is, while depicting regions of the Global South—such as Africa, Latin America, and parts of Asia and Oceania—as significantly smaller than their true size [openstax_1_p18_para_0].",
+    "citations": [
+      "openstax_1_p18_para_0"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "inaccurate world maps distort size Europe Global South Mercator",
+        "results": [
+          {
+            "id": "openstax_1_p18_para_0",
+            "source_id": "openstax_1",
+            "source": "openstax_1",
+            "page": 18,
+            "text": "1.2.5 https://human.libretexts.org/@go/page/236418 inaccurate, often showing Europe as larger than it is and regions of the Global South—Latin America, Africa, and parts of Asia and Oceania—as smaller than their actual size. Maps also present challenges because some territories are claimed by more than one political entity. There are many examples in the distant past, and even today, of contested regions, such as Crimea and Taiwan, that can make presenting regional geographies difficult. Crimea is claimed by both Russia and Ukraine, and Taiwan claims independence while China considers Taiwan part of its territory. The text will highlight these regions as they arise in the human story so you can explore geography’s complexities. For a perspective on how Google Earth reflects the globalization of society, read “World Maps and the Dawn of Globalisation” by Jerry Brotton, a cultural historian and author of The History of the World in Twelve Maps.",
+            "metadata": {
+              "section": "1.2: Developing a Global Perspective"
+            },
+            "score": 0.25777635393378306,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "openstax_1_p17_para_5",
+            "source_id": "openstax_1",
+            "source": "openstax_1",
+            "page": 17,
+            "text": "Even when humanity acquired knowledge of the size and space of things, maps remained",
+            "metadata": {
+              "section": "1.2: Developing a Global Perspective"
+            },
+            "score": 0.207408568847963,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "openstax_1_p15_para_2",
+            "source_id": "openstax_1",
+            "source": "openstax_1",
+            "page": 15,
+            "text": "Learning how to respect, communicate and collaborate with an increasingly diverse work culture is crucial to optimizing a company’s efficiency and productivity.” World History and Global Citizenship The study of world history recognizes the integrated nature of modern life and prepares students for diverse, global workplaces. Knowing about the world will prepare you to be a global citizen, someone who may reside in only one nation but who self\u0002identifies as part of the larger world community. Issues in need of solutions, like climate change, social justice, and human rights, are global in scale. You must know the world to be the change it needs. How do you fit in the global environment? What is your story, and how is it linked to that of others? In many ways, the idea of global citizenship emerged from the human wreckage of the two world wars.",
+            "metadata": {
+              "section": "1.2: Developing a Global Perspective"
+            },
+            "score": 0.16799785997956135,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[openstax_1_p18_para_0 | openstax_1 | page 18]\n1.2.5 https://human.libretexts.org/@go/page/236418 inaccurate, often showing Europe as larger than it is and regions of the Global South—Latin America, Africa, and parts of Asia and Oceania—as smaller than their actual size. Maps also present challenges because some territories are claimed by more than one political entity. There are many examples in the distant past, and even today, of contested regions, such as Crimea and Taiwan, that can make presenting regional geographies difficult. Crimea is claimed by both Russia and Ukraine, and Taiwan claims independence while China considers Taiwan part of its territory. The text will highlight these regions as they arise in the human story so you can explore geography’s complexities. For a perspective on how Google Earth reflects the globalization of society, read “World Maps and the Dawn of Globalisation” by Jerry Brotton, a cultural historian and author of The History of the World in Twelve Maps.\n\n[openstax_1_p17_para_5 | openstax_1 | page 17]\nEven when humanity acquired knowledge of the size and space of things, maps remained\n\n[openstax_1_p15_para_2 | openstax_1 | page 15]\nLearning how to respect, communicate and collaborate with an increasingly diverse work culture is crucial to optimizing a company’s efficiency and productivity.” World History and Global Citizenship The study of world history recognizes the integrated nature of modern life and prepares students for diverse, global workplaces. Knowing about the world will prepare you to be a global citizen, someone who may reside in only one nation but who self\u0002identifies as part of the larger world community. Issues in need of solutions, like climate change, social justice, and human rights, are global in scale. You must know the world to be the change it needs. How do you fit in the global environment? What is your story, and how is it linked to that of others? In many ways, the idea of global citizenship emerged from the human wreckage of the two world wars.",
+        "context_ids": [
+          "openstax_1_p18_para_0",
+          "openstax_1_p17_para_5",
+          "openstax_1_p15_para_2"
+        ]
+      }
+    ],
+    "usage": [
+      {
+        "cache_tokens_details": null,
+        "cached_content_token_count": null,
+        "candidates_token_count": 24,
+        "candidates_tokens_details": null,
+        "prompt_token_count": 107,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 107
+          }
+        ],
+        "thoughts_token_count": null,
+        "tool_use_prompt_token_count": null,
+        "tool_use_prompt_tokens_details": null,
+        "total_token_count": 131,
+        "traffic_type": null
+      },
+      {
+        "cache_tokens_details": null,
+        "cached_content_token_count": null,
+        "candidates_token_count": 64,
+        "candidates_tokens_details": null,
+        "prompt_token_count": 600,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 600
+          }
+        ],
+        "thoughts_token_count": null,
+        "tool_use_prompt_token_count": null,
+        "tool_use_prompt_tokens_details": null,
+        "total_token_count": 664,
+        "traffic_type": null
+      }
+    ],
+    "model": "gemini-3.5-flash-lite",
+    "service_cost_usd": null,
+    "cost_note": "Use usage tokens and current provider billing; no fabricated cost",
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "elapsed_seconds": 1.8536402999889106
+  },
+  {
+    "query_id": "q05",
+    "split": "dev",
+    "question": "In the section on Primary Sources, what architectural features were added at the four corners of the Hagia Sophia when Mehmed II converted it into a mosque?",
+    "answerable": true,
+    "results": [
+      {
+        "id": "openstax_1_p22_para_0",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 22,
+        "text": "1.3.4 https://human.libretexts.org/@go/page/236419 II came to the Hagia Sophia, he recognized its beauty and saved it from destruction. To Muslims, the Christian God and the Muslim God are the same, so Mehmed made the church a mosque—following a long tradition in the Middle East of continuing the use of sacred spaces. Minarets, towers from which the Muslim call to prayer is issued, were added at the four corners of the building, and Arabic writing was placed beside the ancient Greek iconography. The second set of images (Figure 1.6 and Figure 1.7) show the Hagia Sophia as it stands today, having also been a museum and now serving as a mosque once again. The building tells a tale spanning hundreds of years and highlights many fascinating aspects of the region’s history. But without the context, its meaning would be far less clear. Figure 1.6 Hagia Sophia’s Minarets. Hagia Sophia has four tall minarets, which were added a thousand years after its initial construction.",
+        "metadata": {
+          "section": "1.3: Primary Sources"
+        },
+        "score": 0.39114095718187036,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_1_p21_para_0",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 21,
+        "text": "1.3.3 https://human.libretexts.org/@go/page/236419 Figure 1.4 Exterior of Hagia Sophia. Note the domes and archways in this drawing of the exterior of the Hagia Sophia. Such architectural features were particularly hard to build during the sixth century and often collapsed because the engineering was flawed. Thanks to their durability, those of Hagia Sophia were a marvel at the time it was built. (credit: “Saint Sophia, Constantinopolis” by ETH Library/Wikimedia Commons, Public Domain) Figure 1.5 Interior of Hagia Sophia. The Greek Christian iconography found in the interior of the Hagia Sophia includes halos on the figures, signifying holiness. Also note the lavish use of precious gold in this tenth-century mosaic of Mary and the child Jesus (center), and the emperors Justinian (left), and Constantine (right).",
+        "metadata": {
+          "section": "1.3: Primary Sources"
+        },
+        "score": 0.3219766984430503,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_1_p23_para_0",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 23,
+        "text": "1.3.5 https://human.libretexts.org/@go/page/236419 Figure 1.7 Hagia Sophia’s Many Influences. Muslims consider themselves the heirs of Judaism and Christianity, and until recently, you could still see the early Greek iconography in the interior of Hagia Sophia. Now it is covered during prayer times by large medallions bearing Arabic writing. (credit: “Hagia Sophia Istanbul 2013 13” by Karelj/Wikimedia Commons, Public Domain) Documentary Sources: Competing Narratives Textual, or written, primary sources are considered the best possible resource for historians. They tend to offer both far more context and far more information than other types of sources, and sometimes clues about the writer’s intent. But even they must be approached with method and scrutiny. We must evaluate the author, audience, intent, and context in order to accurately interpret a primary source document.",
+        "metadata": {
+          "section": "1.3: Primary Sources"
+        },
+        "score": 0.2050284684101848,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[openstax_1_p22_para_0 | openstax_1 | page 22]\n1.3.4 https://human.libretexts.org/@go/page/236419 II came to the Hagia Sophia, he recognized its beauty and saved it from destruction. To Muslims, the Christian God and the Muslim God are the same, so Mehmed made the church a mosque—following a long tradition in the Middle East of continuing the use of sacred spaces. Minarets, towers from which the Muslim call to prayer is issued, were added at the four corners of the building, and Arabic writing was placed beside the ancient Greek iconography. The second set of images (Figure 1.6 and Figure 1.7) show the Hagia Sophia as it stands today, having also been a museum and now serving as a mosque once again. The building tells a tale spanning hundreds of years and highlights many fascinating aspects of the region’s history. But without the context, its meaning would be far less clear. Figure 1.6 Hagia Sophia’s Minarets. Hagia Sophia has four tall minarets, which were added a thousand years after its initial construction.\n\n[openstax_1_p21_para_0 | openstax_1 | page 21]\n1.3.3 https://human.libretexts.org/@go/page/236419 Figure 1.4 Exterior of Hagia Sophia. Note the domes and archways in this drawing of the exterior of the Hagia Sophia. Such architectural features were particularly hard to build during the sixth century and often collapsed because the engineering was flawed. Thanks to their durability, those of Hagia Sophia were a marvel at the time it was built. (credit: “Saint Sophia, Constantinopolis” by ETH Library/Wikimedia Commons, Public Domain) Figure 1.5 Interior of Hagia Sophia. The Greek Christian iconography found in the interior of the Hagia Sophia includes halos on the figures, signifying holiness. Also note the lavish use of precious gold in this tenth-century mosaic of Mary and the child Jesus (center), and the emperors Justinian (left), and Constantine (right).\n\n[openstax_1_p23_para_0 | openstax_1 | page 23]\n1.3.5 https://human.libretexts.org/@go/page/236419 Figure 1.7 Hagia Sophia’s Many Influences. Muslims consider themselves the heirs of Judaism and Christianity, and until recently, you could still see the early Greek iconography in the interior of Hagia Sophia. Now it is covered during prayer times by large medallions bearing Arabic writing. (credit: “Hagia Sophia Istanbul 2013 13” by Karelj/Wikimedia Commons, Public Domain) Documentary Sources: Competing Narratives Textual, or written, primary sources are considered the best possible resource for historians. They tend to offer both far more context and far more information than other types of sources, and sometimes clues about the writer’s intent. But even they must be approached with method and scrutiny. We must evaluate the author, audience, intent, and context in order to accurately interpret a primary source document.\n\n",
+    "context_ids": [
+      "openstax_1_p22_para_0",
+      "openstax_1_p21_para_0",
+      "openstax_1_p23_para_0"
+    ],
+    "status": "answered",
+    "answer": "Based on the text, when Mehmed II converted the Hagia Sophia into a mosque, **minarets** (towers from which the Muslim call to prayer is issued) were added at the four corners of the building [openstax_1_p22_para_0].",
+    "citations": [
+      "openstax_1_p22_para_0"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Hagia Sophia four corners Mehmed II mosque architectural features Primary Sources",
+        "results": [
+          {
+            "id": "openstax_1_p22_para_0",
+            "source_id": "openstax_1",
+            "source": "openstax_1",
+            "page": 22,
+            "text": "1.3.4 https://human.libretexts.org/@go/page/236419 II came to the Hagia Sophia, he recognized its beauty and saved it from destruction. To Muslims, the Christian God and the Muslim God are the same, so Mehmed made the church a mosque—following a long tradition in the Middle East of continuing the use of sacred spaces. Minarets, towers from which the Muslim call to prayer is issued, were added at the four corners of the building, and Arabic writing was placed beside the ancient Greek iconography. The second set of images (Figure 1.6 and Figure 1.7) show the Hagia Sophia as it stands today, having also been a museum and now serving as a mosque once again. The building tells a tale spanning hundreds of years and highlights many fascinating aspects of the region’s history. But without the context, its meaning would be far less clear. Figure 1.6 Hagia Sophia’s Minarets. Hagia Sophia has four tall minarets, which were added a thousand years after its initial construction.",
+            "metadata": {
+              "section": "1.3: Primary Sources"
+            },
+            "score": 0.33178924030898527,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "openstax_1_p21_para_0",
+            "source_id": "openstax_1",
+            "source": "openstax_1",
+            "page": 21,
+            "text": "1.3.3 https://human.libretexts.org/@go/page/236419 Figure 1.4 Exterior of Hagia Sophia. Note the domes and archways in this drawing of the exterior of the Hagia Sophia. Such architectural features were particularly hard to build during the sixth century and often collapsed because the engineering was flawed. Thanks to their durability, those of Hagia Sophia were a marvel at the time it was built. (credit: “Saint Sophia, Constantinopolis” by ETH Library/Wikimedia Commons, Public Domain) Figure 1.5 Interior of Hagia Sophia. The Greek Christian iconography found in the interior of the Hagia Sophia includes halos on the figures, signifying holiness. Also note the lavish use of precious gold in this tenth-century mosaic of Mary and the child Jesus (center), and the emperors Justinian (left), and Constantine (right).",
+            "metadata": {
+              "section": "1.3: Primary Sources"
+            },
+            "score": 0.2976271319374258,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "openstax_1_p23_para_0",
+            "source_id": "openstax_1",
+            "source": "openstax_1",
+            "page": 23,
+            "text": "1.3.5 https://human.libretexts.org/@go/page/236419 Figure 1.7 Hagia Sophia’s Many Influences. Muslims consider themselves the heirs of Judaism and Christianity, and until recently, you could still see the early Greek iconography in the interior of Hagia Sophia. Now it is covered during prayer times by large medallions bearing Arabic writing. (credit: “Hagia Sophia Istanbul 2013 13” by Karelj/Wikimedia Commons, Public Domain) Documentary Sources: Competing Narratives Textual, or written, primary sources are considered the best possible resource for historians. They tend to offer both far more context and far more information than other types of sources, and sometimes clues about the writer’s intent. But even they must be approached with method and scrutiny. We must evaluate the author, audience, intent, and context in order to accurately interpret a primary source document.",
+            "metadata": {
+              "section": "1.3: Primary Sources"
+            },
+            "score": 0.2149880186642044,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[openstax_1_p22_para_0 | openstax_1 | page 22]\n1.3.4 https://human.libretexts.org/@go/page/236419 II came to the Hagia Sophia, he recognized its beauty and saved it from destruction. To Muslims, the Christian God and the Muslim God are the same, so Mehmed made the church a mosque—following a long tradition in the Middle East of continuing the use of sacred spaces. Minarets, towers from which the Muslim call to prayer is issued, were added at the four corners of the building, and Arabic writing was placed beside the ancient Greek iconography. The second set of images (Figure 1.6 and Figure 1.7) show the Hagia Sophia as it stands today, having also been a museum and now serving as a mosque once again. The building tells a tale spanning hundreds of years and highlights many fascinating aspects of the region’s history. But without the context, its meaning would be far less clear. Figure 1.6 Hagia Sophia’s Minarets. Hagia Sophia has four tall minarets, which were added a thousand years after its initial construction.\n\n[openstax_1_p21_para_0 | openstax_1 | page 21]\n1.3.3 https://human.libretexts.org/@go/page/236419 Figure 1.4 Exterior of Hagia Sophia. Note the domes and archways in this drawing of the exterior of the Hagia Sophia. Such architectural features were particularly hard to build during the sixth century and often collapsed because the engineering was flawed. Thanks to their durability, those of Hagia Sophia were a marvel at the time it was built. (credit: “Saint Sophia, Constantinopolis” by ETH Library/Wikimedia Commons, Public Domain) Figure 1.5 Interior of Hagia Sophia. The Greek Christian iconography found in the interior of the Hagia Sophia includes halos on the figures, signifying holiness. Also note the lavish use of precious gold in this tenth-century mosaic of Mary and the child Jesus (center), and the emperors Justinian (left), and Constantine (right).\n\n[openstax_1_p23_para_0 | openstax_1 | page 23]\n1.3.5 https://human.libretexts.org/@go/page/236419 Figure 1.7 Hagia Sophia’s Many Influences. Muslims consider themselves the heirs of Judaism and Christianity, and until recently, you could still see the early Greek iconography in the interior of Hagia Sophia. Now it is covered during prayer times by large medallions bearing Arabic writing. (credit: “Hagia Sophia Istanbul 2013 13” by Karelj/Wikimedia Commons, Public Domain) Documentary Sources: Competing Narratives Textual, or written, primary sources are considered the best possible resource for historians. They tend to offer both far more context and far more information than other types of sources, and sometimes clues about the writer’s intent. But even they must be approached with method and scrutiny. We must evaluate the author, audience, intent, and context in order to accurately interpret a primary source document.",
+        "context_ids": [
+          "openstax_1_p22_para_0",
+          "openstax_1_p21_para_0",
+          "openstax_1_p23_para_0"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "Primary Sources Hagia Sophia four corners Mehmed II",
+        "results": [
+          {
+            "id": "openstax_1_p22_para_0",
+            "source_id": "openstax_1",
+            "source": "openstax_1",
+            "page": 22,
+            "text": "1.3.4 https://human.libretexts.org/@go/page/236419 II came to the Hagia Sophia, he recognized its beauty and saved it from destruction. To Muslims, the Christian God and the Muslim God are the same, so Mehmed made the church a mosque—following a long tradition in the Middle East of continuing the use of sacred spaces. Minarets, towers from which the Muslim call to prayer is issued, were added at the four corners of the building, and Arabic writing was placed beside the ancient Greek iconography. The second set of images (Figure 1.6 and Figure 1.7) show the Hagia Sophia as it stands today, having also been a museum and now serving as a mosque once again. The building tells a tale spanning hundreds of years and highlights many fascinating aspects of the region’s history. But without the context, its meaning would be far less clear. Figure 1.6 Hagia Sophia’s Minarets. Hagia Sophia has four tall minarets, which were added a thousand years after its initial construction.",
+            "metadata": {
+              "section": "1.3: Primary Sources"
+            },
+            "score": 0.3308130525815517,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "openstax_1_p21_para_0",
+            "source_id": "openstax_1",
+            "source": "openstax_1",
+            "page": 21,
+            "text": "1.3.3 https://human.libretexts.org/@go/page/236419 Figure 1.4 Exterior of Hagia Sophia. Note the domes and archways in this drawing of the exterior of the Hagia Sophia. Such architectural features were particularly hard to build during the sixth century and often collapsed because the engineering was flawed. Thanks to their durability, those of Hagia Sophia were a marvel at the time it was built. (credit: “Saint Sophia, Constantinopolis” by ETH Library/Wikimedia Commons, Public Domain) Figure 1.5 Interior of Hagia Sophia. The Greek Christian iconography found in the interior of the Hagia Sophia includes halos on the figures, signifying holiness. Also note the lavish use of precious gold in this tenth-century mosaic of Mary and the child Jesus (center), and the emperors Justinian (left), and Constantine (right).",
+            "metadata": {
+              "section": "1.3: Primary Sources"
+            },
+            "score": 0.30470394207676404,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "openstax_1_p23_para_0",
+            "source_id": "openstax_1",
+            "source": "openstax_1",
+            "page": 23,
+            "text": "1.3.5 https://human.libretexts.org/@go/page/236419 Figure 1.7 Hagia Sophia’s Many Influences. Muslims consider themselves the heirs of Judaism and Christianity, and until recently, you could still see the early Greek iconography in the interior of Hagia Sophia. Now it is covered during prayer times by large medallions bearing Arabic writing. (credit: “Hagia Sophia Istanbul 2013 13” by Karelj/Wikimedia Commons, Public Domain) Documentary Sources: Competing Narratives Textual, or written, primary sources are considered the best possible resource for historians. They tend to offer both far more context and far more information than other types of sources, and sometimes clues about the writer’s intent. But even they must be approached with method and scrutiny. We must evaluate the author, audience, intent, and context in order to accurately interpret a primary source document.",
+            "metadata": {
+              "section": "1.3: Primary Sources"
+            },
+            "score": 0.270575911163826,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      }
+    ],
+    "usage": [
+      {
+        "cache_tokens_details": null,
+        "cached_content_token_count": null,
+        "candidates_token_count": 26,
+        "candidates_tokens_details": null,
+        "prompt_token_count": 121,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 121
+          }
+        ],
+        "thoughts_token_count": null,
+        "tool_use_prompt_token_count": null,
+        "tool_use_prompt_tokens_details": null,
+        "total_token_count": 147,
+        "traffic_type": null
+      },
+      {
+        "cache_tokens_details": null,
+        "cached_content_token_count": null,
+        "candidates_token_count": 23,
+        "candidates_tokens_details": null,
+        "prompt_token_count": 846,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 846
+          }
+        ],
+        "thoughts_token_count": null,
+        "tool_use_prompt_token_count": null,
+        "tool_use_prompt_tokens_details": null,
+        "total_token_count": 869,
+        "traffic_type": null
+      },
+      {
+        "cache_tokens_details": null,
+        "cached_content_token_count": null,
+        "candidates_token_count": 60,
+        "candidates_tokens_details": null,
+        "prompt_token_count": 888,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 888
+          }
+        ],
+        "thoughts_token_count": null,
+        "tool_use_prompt_token_count": null,
+        "tool_use_prompt_tokens_details": null,
+        "total_token_count": 948,
+        "traffic_type": null
+      }
+    ],
+    "model": "gemini-3.5-flash-lite",
+    "service_cost_usd": null,
+    "cost_note": "Use usage tokens and current provider billing; no fabricated cost",
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "elapsed_seconds": 2.394411199988099
+  },
+  {
+    "query_id": "q06",
+    "split": "dev",
+    "question": "What term do linguists use to describe the use of language and deliberate choices about how words are put together?",
+    "answerable": true,
+    "results": [
+      {
+        "id": "openstax_1_p26_para_0",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 26,
+        "text": "1.3.8 https://human.libretexts.org/@go/page/236419 Textual Sources: The Importance of Language The different types of language used in a source are clues to its interpretation. Linguists call the use of language rhetoric. Rhetorical choices, decisions about the way words are used and put together, are often deliberate and intended to achieve a certain outcome. For example, think about the way you talk to a professor versus the way you talk to a friend. We must closely examine the rhetorical choices in any primary document to correctly interpret it. To practice this skill, consider the 1887 speech given by Senator George G. Vest, a Democrat from Missouri, regarding whether women in the United States should be given the right to vote in Senator Vest on Women’s Suffrage and the guiding questions that follow. Senator Vest on Women’s Suffrage In the late nineteenth and early twentieth centuries, governments debated whether women should be given the right to vote.",
+        "metadata": {
+          "section": "1.3: Primary Sources"
+        },
+        "score": 0.28633560870076236,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_1_p27_para_1",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 27,
+        "text": "I mean the word in its full signification, because I believe that woman as she is to-day, the queen of the home and of hearts, is above the political collisions of this world, and should always be kept above them. —George G. Vest, a speech to the 48th Congress, January 25, 1887 According to Vest, why is he opposed to women’s suffrage? What language does Vest use to flatter women? What stereotypes does he evoke? How does Vest use language to contrast the public world of men with the domestic world presided over by women? Hidden in History Historians begin their work with a research question and seek to find the sources necessary to build an authentic narrative that answers it. One challenge is that written sources are undeniably valuable but often leave out important details. For example, many speak only of the lives of elites. It is not terribly difficult to find information about kings, queens, and other rulers of the past, but what of their families? Their servants?",
+        "metadata": {
+          "section": "1.3: Primary Sources"
+        },
+        "score": 0.16980526555689296,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_1_p25_para_3",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 25,
+        "text": "How does he use language to convey to the other members of Parliament the difficult conditions of factory labor? What arguments does John Thomas Hope use to oppose limiting the number of hours children can work? How does he try to persuade other members of Parliament to support his position? Why may the reporter have chosen to present Hope’s speech in the third person instead of in the first person, as he did for Sadler’s? Does this make Hope’s speech a less reliable source for a historian to rely upon for evidence? Records of parliamentary debate were available to the public to read. In what way might this have influenced what these politicians said and how they framed their arguments?",
+        "metadata": {
+          "section": "1.3: Primary Sources"
+        },
+        "score": 0.1671836596290352,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[openstax_1_p26_para_0 | openstax_1 | page 26]\n1.3.8 https://human.libretexts.org/@go/page/236419 Textual Sources: The Importance of Language The different types of language used in a source are clues to its interpretation. Linguists call the use of language rhetoric. Rhetorical choices, decisions about the way words are used and put together, are often deliberate and intended to achieve a certain outcome. For example, think about the way you talk to a professor versus the way you talk to a friend. We must closely examine the rhetorical choices in any primary document to correctly interpret it. To practice this skill, consider the 1887 speech given by Senator George G. Vest, a Democrat from Missouri, regarding whether women in the United States should be given the right to vote in Senator Vest on Women’s Suffrage and the guiding questions that follow. Senator Vest on Women’s Suffrage In the late nineteenth and early twentieth centuries, governments debated whether women should be given the right to vote.\n\n[openstax_1_p27_para_1 | openstax_1 | page 27]\nI mean the word in its full signification, because I believe that woman as she is to-day, the queen of the home and of hearts, is above the political collisions of this world, and should always be kept above them. —George G. Vest, a speech to the 48th Congress, January 25, 1887 According to Vest, why is he opposed to women’s suffrage? What language does Vest use to flatter women? What stereotypes does he evoke? How does Vest use language to contrast the public world of men with the domestic world presided over by women? Hidden in History Historians begin their work with a research question and seek to find the sources necessary to build an authentic narrative that answers it. One challenge is that written sources are undeniably valuable but often leave out important details. For example, many speak only of the lives of elites. It is not terribly difficult to find information about kings, queens, and other rulers of the past, but what of their families? Their servants?\n\n[openstax_1_p25_para_3 | openstax_1 | page 25]\nHow does he use language to convey to the other members of Parliament the difficult conditions of factory labor? What arguments does John Thomas Hope use to oppose limiting the number of hours children can work? How does he try to persuade other members of Parliament to support his position? Why may the reporter have chosen to present Hope’s speech in the third person instead of in the first person, as he did for Sadler’s? Does this make Hope’s speech a less reliable source for a historian to rely upon for evidence? Records of parliamentary debate were available to the public to read. In what way might this have influenced what these politicians said and how they framed their arguments?",
+    "context_ids": [
+      "openstax_1_p26_para_0",
+      "openstax_1_p27_para_1",
+      "openstax_1_p25_para_3"
+    ],
+    "status": "answered",
+    "answer": "Linguists call the use of language **rhetoric**, and refer to the deliberate decisions about how words are used and put together as **rhetorical choices** [openstax_1_p26_para_0].",
+    "citations": [
+      "openstax_1_p26_para_0"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "linguists use to describe the use of language and deliberate choices about how words are put together",
+        "results": [
+          {
+            "id": "openstax_1_p26_para_0",
+            "source_id": "openstax_1",
+            "source": "openstax_1",
+            "page": 26,
+            "text": "1.3.8 https://human.libretexts.org/@go/page/236419 Textual Sources: The Importance of Language The different types of language used in a source are clues to its interpretation. Linguists call the use of language rhetoric. Rhetorical choices, decisions about the way words are used and put together, are often deliberate and intended to achieve a certain outcome. For example, think about the way you talk to a professor versus the way you talk to a friend. We must closely examine the rhetorical choices in any primary document to correctly interpret it. To practice this skill, consider the 1887 speech given by Senator George G. Vest, a Democrat from Missouri, regarding whether women in the United States should be given the right to vote in Senator Vest on Women’s Suffrage and the guiding questions that follow. Senator Vest on Women’s Suffrage In the late nineteenth and early twentieth centuries, governments debated whether women should be given the right to vote.",
+            "metadata": {
+              "section": "1.3: Primary Sources"
+            },
+            "score": 0.3052702221780123,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "openstax_1_p27_para_1",
+            "source_id": "openstax_1",
+            "source": "openstax_1",
+            "page": 27,
+            "text": "I mean the word in its full signification, because I believe that woman as she is to-day, the queen of the home and of hearts, is above the political collisions of this world, and should always be kept above them. —George G. Vest, a speech to the 48th Congress, January 25, 1887 According to Vest, why is he opposed to women’s suffrage? What language does Vest use to flatter women? What stereotypes does he evoke? How does Vest use language to contrast the public world of men with the domestic world presided over by women? Hidden in History Historians begin their work with a research question and seek to find the sources necessary to build an authentic narrative that answers it. One challenge is that written sources are undeniably valuable but often leave out important details. For example, many speak only of the lives of elites. It is not terribly difficult to find information about kings, queens, and other rulers of the past, but what of their families? Their servants?",
+            "metadata": {
+              "section": "1.3: Primary Sources"
+            },
+            "score": 0.16229925698992867,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "openstax_1_p25_para_3",
+            "source_id": "openstax_1",
+            "source": "openstax_1",
+            "page": 25,
+            "text": "How does he use language to convey to the other members of Parliament the difficult conditions of factory labor? What arguments does John Thomas Hope use to oppose limiting the number of hours children can work? How does he try to persuade other members of Parliament to support his position? Why may the reporter have chosen to present Hope’s speech in the third person instead of in the first person, as he did for Sadler’s? Does this make Hope’s speech a less reliable source for a historian to rely upon for evidence? Records of parliamentary debate were available to the public to read. In what way might this have influenced what these politicians said and how they framed their arguments?",
+            "metadata": {
+              "section": "1.3: Primary Sources"
+            },
+            "score": 0.15649339348869196,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[openstax_1_p26_para_0 | openstax_1 | page 26]\n1.3.8 https://human.libretexts.org/@go/page/236419 Textual Sources: The Importance of Language The different types of language used in a source are clues to its interpretation. Linguists call the use of language rhetoric. Rhetorical choices, decisions about the way words are used and put together, are often deliberate and intended to achieve a certain outcome. For example, think about the way you talk to a professor versus the way you talk to a friend. We must closely examine the rhetorical choices in any primary document to correctly interpret it. To practice this skill, consider the 1887 speech given by Senator George G. Vest, a Democrat from Missouri, regarding whether women in the United States should be given the right to vote in Senator Vest on Women’s Suffrage and the guiding questions that follow. Senator Vest on Women’s Suffrage In the late nineteenth and early twentieth centuries, governments debated whether women should be given the right to vote.\n\n[openstax_1_p27_para_1 | openstax_1 | page 27]\nI mean the word in its full signification, because I believe that woman as she is to-day, the queen of the home and of hearts, is above the political collisions of this world, and should always be kept above them. —George G. Vest, a speech to the 48th Congress, January 25, 1887 According to Vest, why is he opposed to women’s suffrage? What language does Vest use to flatter women? What stereotypes does he evoke? How does Vest use language to contrast the public world of men with the domestic world presided over by women? Hidden in History Historians begin their work with a research question and seek to find the sources necessary to build an authentic narrative that answers it. One challenge is that written sources are undeniably valuable but often leave out important details. For example, many speak only of the lives of elites. It is not terribly difficult to find information about kings, queens, and other rulers of the past, but what of their families? Their servants?\n\n[openstax_1_p25_para_3 | openstax_1 | page 25]\nHow does he use language to convey to the other members of Parliament the difficult conditions of factory labor? What arguments does John Thomas Hope use to oppose limiting the number of hours children can work? How does he try to persuade other members of Parliament to support his position? Why may the reporter have chosen to present Hope’s speech in the third person instead of in the first person, as he did for Sadler’s? Does this make Hope’s speech a less reliable source for a historian to rely upon for evidence? Records of parliamentary debate were available to the public to read. In what way might this have influenced what these politicians said and how they framed their arguments?",
+        "context_ids": [
+          "openstax_1_p26_para_0",
+          "openstax_1_p27_para_1",
+          "openstax_1_p25_para_3"
+        ]
+      }
+    ],
+    "usage": [
+      {
+        "cache_tokens_details": null,
+        "cached_content_token_count": null,
+        "candidates_token_count": 31,
+        "candidates_tokens_details": null,
+        "prompt_token_count": 112,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 112
+          }
+        ],
+        "thoughts_token_count": null,
+        "tool_use_prompt_token_count": null,
+        "tool_use_prompt_tokens_details": null,
+        "total_token_count": 143,
+        "traffic_type": null
+      },
+      {
+        "cache_tokens_details": null,
+        "cached_content_token_count": null,
+        "candidates_token_count": 49,
+        "candidates_tokens_details": null,
+        "prompt_token_count": 783,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 783
+          }
+        ],
+        "thoughts_token_count": null,
+        "tool_use_prompt_token_count": null,
+        "tool_use_prompt_tokens_details": null,
+        "total_token_count": 832,
+        "traffic_type": null
+      }
+    ],
+    "model": "gemini-3.5-flash-lite",
+    "service_cost_usd": null,
+    "cost_note": "Use usage tokens and current provider billing; no fabricated cost",
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "elapsed_seconds": 1.740024099999573
+  },
+  {
+    "query_id": "q07",
+    "split": "dev",
+    "question": "Why had the Ottomans attempted multiple times to conquer Constantinople?",
+    "answerable": true,
+    "results": [
+      {
+        "id": "openstax_1_p32_para_0",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 32,
+        "text": "1.4.3 https://human.libretexts.org/@go/page/236420 prove. The Ottomans had tried several times to take Constantinople because it lay at the crossroads of many civilizations. Conquest had long been a reliable mechanism for bringing new people and wealth into the Ottoman Empire and for keeping its economy prosperous. All these factors played a role in the siege undertaken by Mehmed II. Can you order them by importance? This is the point where historians usually disagree, even about events for which most of the facts are clear. A historian who believes powerful leaders are the most influential factor driving events would rank Mehmed’s personal goals first (Figure 1.12). Base your ranking on the strongest arguments you can make. Figure 1.12 Causation Applied to the Conquest of Constantinople. This causation chart ranks the reasons for Mehmed II’s 1453 Ottoman conquest of Constantinople.",
+        "metadata": {
+          "section": "1.4: Causation and Interpretation in History"
+        },
+        "score": 0.27245996399146394,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_1_p22_para_1",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 22,
+        "text": "Minarets are towers from which the Muslim call to prayer goes out multiple times a day. (credit: “Hagia Sophia (Istanbul)” by Frank Mago/Flickr, CC BY 2.0)",
+        "metadata": {
+          "section": "1.3: Primary Sources"
+        },
+        "score": 0.19765644066440716,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_1_p31_para_1",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 31,
+        "text": "Roosevelt, had been looking for ways to help the British fend off a potential German invasion, and Japan and the United States had long-standing issues over the use of power in the Pacific (Figure 1.11). Figure 1.11 Causation Applied to World War II. This causation chart identifies and ranks the reasons for the entry of the United States into World War II. (CC BY 4.0; Rice University & OpenStax) Here is one more example. In 1453, Mehmed II laid siege to the city of Constantinople. Why? Mehmed II was the leader of the Ottoman Empire, the sultan. He had been badly treated by his father, and when he ascended the throne, he felt he had something to",
+        "metadata": {
+          "section": "1.4: Causation and Interpretation in History"
+        },
+        "score": 0.1887014129962322,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[openstax_1_p32_para_0 | openstax_1 | page 32]\n1.4.3 https://human.libretexts.org/@go/page/236420 prove. The Ottomans had tried several times to take Constantinople because it lay at the crossroads of many civilizations. Conquest had long been a reliable mechanism for bringing new people and wealth into the Ottoman Empire and for keeping its economy prosperous. All these factors played a role in the siege undertaken by Mehmed II. Can you order them by importance? This is the point where historians usually disagree, even about events for which most of the facts are clear. A historian who believes powerful leaders are the most influential factor driving events would rank Mehmed’s personal goals first (Figure 1.12). Base your ranking on the strongest arguments you can make. Figure 1.12 Causation Applied to the Conquest of Constantinople. This causation chart ranks the reasons for Mehmed II’s 1453 Ottoman conquest of Constantinople.\n\n[openstax_1_p22_para_1 | openstax_1 | page 22]\nMinarets are towers from which the Muslim call to prayer goes out multiple times a day. (credit: “Hagia Sophia (Istanbul)” by Frank Mago/Flickr, CC BY 2.0)\n\n[openstax_1_p31_para_1 | openstax_1 | page 31]\nRoosevelt, had been looking for ways to help the British fend off a potential German invasion, and Japan and the United States had long-standing issues over the use of power in the Pacific (Figure 1.11). Figure 1.11 Causation Applied to World War II. This causation chart identifies and ranks the reasons for the entry of the United States into World War II. (CC BY 4.0; Rice University & OpenStax) Here is one more example. In 1453, Mehmed II laid siege to the city of Constantinople. Why? Mehmed II was the leader of the Ottoman Empire, the sultan. He had been badly treated by his father, and when he ascended the throne, he felt he had something to",
+    "context_ids": [
+      "openstax_1_p32_para_0",
+      "openstax_1_p22_para_1",
+      "openstax_1_p31_para_1"
+    ],
+    "status": "answered",
+    "answer": "The Ottomans attempted multiple times to conquer Constantinople primarily because the city lay at the crossroads of many civilizations [openstax_1_p32_para_0]. Additionally, conquest had long served as a reliable mechanism for bringing new people and wealth into the Ottoman Empire, which kept its economy prosperous [openstax_1_p32_para_0].",
+    "citations": [
+      "openstax_1_p32_para_0",
+      "openstax_1_p32_para_0"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Ottomans attempted multiple times to conquer Constantinople reasons",
+        "results": [
+          {
+            "id": "openstax_1_p32_para_0",
+            "source_id": "openstax_1",
+            "source": "openstax_1",
+            "page": 32,
+            "text": "1.4.3 https://human.libretexts.org/@go/page/236420 prove. The Ottomans had tried several times to take Constantinople because it lay at the crossroads of many civilizations. Conquest had long been a reliable mechanism for bringing new people and wealth into the Ottoman Empire and for keeping its economy prosperous. All these factors played a role in the siege undertaken by Mehmed II. Can you order them by importance? This is the point where historians usually disagree, even about events for which most of the facts are clear. A historian who believes powerful leaders are the most influential factor driving events would rank Mehmed’s personal goals first (Figure 1.12). Base your ranking on the strongest arguments you can make. Figure 1.12 Causation Applied to the Conquest of Constantinople. This causation chart ranks the reasons for Mehmed II’s 1453 Ottoman conquest of Constantinople.",
+            "metadata": {
+              "section": "1.4: Causation and Interpretation in History"
+            },
+            "score": 0.24816319492536273,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "openstax_1_p22_para_1",
+            "source_id": "openstax_1",
+            "source": "openstax_1",
+            "page": 22,
+            "text": "Minarets are towers from which the Muslim call to prayer goes out multiple times a day. (credit: “Hagia Sophia (Istanbul)” by Frank Mago/Flickr, CC BY 2.0)",
+            "metadata": {
+              "section": "1.3: Primary Sources"
+            },
+            "score": 0.19195070941969847,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "openstax_1_p31_para_1",
+            "source_id": "openstax_1",
+            "source": "openstax_1",
+            "page": 31,
+            "text": "Roosevelt, had been looking for ways to help the British fend off a potential German invasion, and Japan and the United States had long-standing issues over the use of power in the Pacific (Figure 1.11). Figure 1.11 Causation Applied to World War II. This causation chart identifies and ranks the reasons for the entry of the United States into World War II. (CC BY 4.0; Rice University & OpenStax) Here is one more example. In 1453, Mehmed II laid siege to the city of Constantinople. Why? Mehmed II was the leader of the Ottoman Empire, the sultan. He had been badly treated by his father, and when he ascended the throne, he felt he had something to",
+            "metadata": {
+              "section": "1.4: Causation and Interpretation in History"
+            },
+            "score": 0.09489154886648767,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[openstax_1_p32_para_0 | openstax_1 | page 32]\n1.4.3 https://human.libretexts.org/@go/page/236420 prove. The Ottomans had tried several times to take Constantinople because it lay at the crossroads of many civilizations. Conquest had long been a reliable mechanism for bringing new people and wealth into the Ottoman Empire and for keeping its economy prosperous. All these factors played a role in the siege undertaken by Mehmed II. Can you order them by importance? This is the point where historians usually disagree, even about events for which most of the facts are clear. A historian who believes powerful leaders are the most influential factor driving events would rank Mehmed’s personal goals first (Figure 1.12). Base your ranking on the strongest arguments you can make. Figure 1.12 Causation Applied to the Conquest of Constantinople. This causation chart ranks the reasons for Mehmed II’s 1453 Ottoman conquest of Constantinople.\n\n[openstax_1_p22_para_1 | openstax_1 | page 22]\nMinarets are towers from which the Muslim call to prayer goes out multiple times a day. (credit: “Hagia Sophia (Istanbul)” by Frank Mago/Flickr, CC BY 2.0)\n\n[openstax_1_p31_para_1 | openstax_1 | page 31]\nRoosevelt, had been looking for ways to help the British fend off a potential German invasion, and Japan and the United States had long-standing issues over the use of power in the Pacific (Figure 1.11). Figure 1.11 Causation Applied to World War II. This causation chart identifies and ranks the reasons for the entry of the United States into World War II. (CC BY 4.0; Rice University & OpenStax) Here is one more example. In 1453, Mehmed II laid siege to the city of Constantinople. Why? Mehmed II was the leader of the Ottoman Empire, the sultan. He had been badly treated by his father, and when he ascended the throne, he felt he had something to",
+        "context_ids": [
+          "openstax_1_p32_para_0",
+          "openstax_1_p22_para_1",
+          "openstax_1_p31_para_1"
+        ]
+      }
+    ],
+    "usage": [
+      {
+        "cache_tokens_details": null,
+        "cached_content_token_count": null,
+        "candidates_token_count": 22,
+        "candidates_tokens_details": null,
+        "prompt_token_count": 102,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 102
+          }
+        ],
+        "thoughts_token_count": null,
+        "tool_use_prompt_token_count": null,
+        "tool_use_prompt_tokens_details": null,
+        "total_token_count": 124,
+        "traffic_type": null
+      },
+      {
+        "cache_tokens_details": null,
+        "cached_content_token_count": null,
+        "candidates_token_count": 76,
+        "candidates_tokens_details": null,
+        "prompt_token_count": 610,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 610
+          }
+        ],
+        "thoughts_token_count": null,
+        "tool_use_prompt_token_count": null,
+        "tool_use_prompt_tokens_details": null,
+        "total_token_count": 686,
+        "traffic_type": null
+      }
+    ],
+    "model": "gemini-3.5-flash-lite",
+    "service_cost_usd": null,
+    "cost_note": "Use usage tokens and current provider billing; no fabricated cost",
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "elapsed_seconds": 1.8292647999769542
+  },
+  {
+    "query_id": "q08",
+    "split": "dev",
+    "question": "How is a triacylglycerol molecule formed, and how many water molecules are released in the process?",
+    "answerable": true,
+    "results": [
+      {
+        "id": "openstax_2_p99_para_0",
+        "source_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 99,
+        "text": "Figure : Triacylglycerol is formed by the joining of three fatty acids to a glycerol backbone in a dehydration reaction. Three molecules of water are released in the process. During this ester bond formation, three water molecules are released. The three fatty acids in the triacylglycerol may be similar or dissimilar. Fats are also called triacylglycerols or triglycerides because of their chemical structure. Some fatty acids have common names that specify their origin. For example, palmitic acid, a saturated fatty acid, is derived from the palm tree. Arachidic acid is derived from Arachis hypogea, the scientific name for groundnuts or peanuts. Fatty acids may be saturated or unsaturated. In a fatty acid chain, if there are only single bonds between neighboring carbons in the hydrocarbon chain, the fatty acid is said to be saturated. Saturated fatty acids are saturated with hydrogen; in other words, the number of hydrogen atoms attached to the carbon skeleton is maximized.",
+        "metadata": {
+          "section": "3.3: Lipids"
+        },
+        "score": 0.29972766847110616,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_2_p108_para_2",
+        "source_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 108,
+        "text": "The carboxyl group of one amino acid and the amino group of the incoming amino acid combine, releasing a molecule of water. The resulting bond is the peptide bond (Figure ). Figure : Peptide bond formation is a dehydration synthesis reaction. The carboxyl group of one amino acid is linked to the amino group of the incoming amino acid. In the process, a molecule of water is released. The products formed by such linkages are called peptides. As more amino acids join to this growing chain, the resulting chain is known as a polypeptide. Each polypeptide has a free amino group at one end. This end is called the N terminal, or the amino terminal, and the other end has a free carboxyl group, also known as the C or carboxyl terminal.",
+        "metadata": {
+          "section": "3.4: Proteins"
+        },
+        "score": 0.19377927399276565,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_2_p98_para_0",
+        "source_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 98,
+        "text": "3.3: Lipids • Describe the four major types of lipids • Explain the role of fats in storing energy • Differentiate between saturated and unsaturated fatty acids • Describe phospholipids and their role in cells • Define the basic structure of a steroid and some functions of steroids • Explain the how cholesterol helps to maintain the fluid nature of the plasma membrane Lipids include a diverse group of compounds that are largely nonpolar in nature. This is because they are hydrocarbons that include mostly nonpolar carbon–carbon or carbon–hydrogen bonds. Non-polar molecules are hydrophobic (“water fearing”), or insoluble in water. Lipids perform many different functions in a cell. Cells store energy for long-term use in the form of fats. Lipids also provide insulation from the environment for plants and animals (Figure ). For example, they help keep aquatic birds and mammals dry when forming a protective layer over fur or feathers because of their water-repellant hydrophobic nature.",
+        "metadata": {
+          "section": "3.3: Lipids"
+        },
+        "score": 0.163829429065662,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[openstax_2_p99_para_0 | openstax_2 | page 99]\nFigure : Triacylglycerol is formed by the joining of three fatty acids to a glycerol backbone in a dehydration reaction. Three molecules of water are released in the process. During this ester bond formation, three water molecules are released. The three fatty acids in the triacylglycerol may be similar or dissimilar. Fats are also called triacylglycerols or triglycerides because of their chemical structure. Some fatty acids have common names that specify their origin. For example, palmitic acid, a saturated fatty acid, is derived from the palm tree. Arachidic acid is derived from Arachis hypogea, the scientific name for groundnuts or peanuts. Fatty acids may be saturated or unsaturated. In a fatty acid chain, if there are only single bonds between neighboring carbons in the hydrocarbon chain, the fatty acid is said to be saturated. Saturated fatty acids are saturated with hydrogen; in other words, the number of hydrogen atoms attached to the carbon skeleton is maximized.\n\n[openstax_2_p108_para_2 | openstax_2 | page 108]\nThe carboxyl group of one amino acid and the amino group of the incoming amino acid combine, releasing a molecule of water. The resulting bond is the peptide bond (Figure ). Figure : Peptide bond formation is a dehydration synthesis reaction. The carboxyl group of one amino acid is linked to the amino group of the incoming amino acid. In the process, a molecule of water is released. The products formed by such linkages are called peptides. As more amino acids join to this growing chain, the resulting chain is known as a polypeptide. Each polypeptide has a free amino group at one end. This end is called the N terminal, or the amino terminal, and the other end has a free carboxyl group, also known as the C or carboxyl terminal.\n\n[openstax_2_p105_para_0 | openstax_2 | page 105]\nsaturated fatty acid long-chain of hydrocarbon with single covalent bonds in the carbon chain; the number of hydrogen atoms attached to the carbon skeleton is maximized steroid type of lipid composed of four fused hydrocarbon rings forming a planar structure trans fat fat formed artificially by hydrogenating oils, leading to a different arrangement of double bond(s) than those found in naturally occurring lipids triacylglycerol (also, triglyceride) fat molecule; consists of three fatty acids linked to a glycerol molecule unsaturated fatty acid long-chain hydrocarbon that has one or more double bonds in the hydrocarbon chain wax lipid made of a long-chain fatty acid that is esterified to a long-chain alcohol; serves as a protective coating on some feathers, aquatic mammal fur, and leaves 91 (3.3.8)",
+    "context_ids": [
+      "openstax_2_p99_para_0",
+      "openstax_2_p108_para_2",
+      "openstax_2_p105_para_0"
+    ],
+    "status": "answered",
+    "answer": "A triacylglycerol molecule is formed by the joining of **three fatty acids** to a **glycerol backbone** through a dehydration (or condensation) reaction, which forms ester bonds [openstax_2_p99_para_0]. \n\nIn this process, **three water molecules** are released (one for each fatty acid attached to the glycerol molecule) [openstax_2_p99_para_0].",
+    "citations": [
+      "openstax_2_p99_para_0",
+      "openstax_2_p99_para_0"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "triacylglycerol molecule formed water molecules released",
+        "results": [
+          {
+            "id": "openstax_2_p99_para_0",
+            "source_id": "openstax_2",
+            "source": "openstax_2",
+            "page": 99,
+            "text": "Figure : Triacylglycerol is formed by the joining of three fatty acids to a glycerol backbone in a dehydration reaction. Three molecules of water are released in the process. During this ester bond formation, three water molecules are released. The three fatty acids in the triacylglycerol may be similar or dissimilar. Fats are also called triacylglycerols or triglycerides because of their chemical structure. Some fatty acids have common names that specify their origin. For example, palmitic acid, a saturated fatty acid, is derived from the palm tree. Arachidic acid is derived from Arachis hypogea, the scientific name for groundnuts or peanuts. Fatty acids may be saturated or unsaturated. In a fatty acid chain, if there are only single bonds between neighboring carbons in the hydrocarbon chain, the fatty acid is said to be saturated. Saturated fatty acids are saturated with hydrogen; in other words, the number of hydrogen atoms attached to the carbon skeleton is maximized.",
+            "metadata": {
+              "section": "3.3: Lipids"
+            },
+            "score": 0.28465893635917533,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "openstax_2_p108_para_2",
+            "source_id": "openstax_2",
+            "source": "openstax_2",
+            "page": 108,
+            "text": "The carboxyl group of one amino acid and the amino group of the incoming amino acid combine, releasing a molecule of water. The resulting bond is the peptide bond (Figure ). Figure : Peptide bond formation is a dehydration synthesis reaction. The carboxyl group of one amino acid is linked to the amino group of the incoming amino acid. In the process, a molecule of water is released. The products formed by such linkages are called peptides. As more amino acids join to this growing chain, the resulting chain is known as a polypeptide. Each polypeptide has a free amino group at one end. This end is called the N terminal, or the amino terminal, and the other end has a free carboxyl group, also known as the C or carboxyl terminal.",
+            "metadata": {
+              "section": "3.4: Proteins"
+            },
+            "score": 0.15103604094130835,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "openstax_2_p105_para_0",
+            "source_id": "openstax_2",
+            "source": "openstax_2",
+            "page": 105,
+            "text": "saturated fatty acid long-chain of hydrocarbon with single covalent bonds in the carbon chain; the number of hydrogen atoms attached to the carbon skeleton is maximized steroid type of lipid composed of four fused hydrocarbon rings forming a planar structure trans fat fat formed artificially by hydrogenating oils, leading to a different arrangement of double bond(s) than those found in naturally occurring lipids triacylglycerol (also, triglyceride) fat molecule; consists of three fatty acids linked to a glycerol molecule unsaturated fatty acid long-chain hydrocarbon that has one or more double bonds in the hydrocarbon chain wax lipid made of a long-chain fatty acid that is esterified to a long-chain alcohol; serves as a protective coating on some feathers, aquatic mammal fur, and leaves 91 (3.3.8)",
+            "metadata": {
+              "section": "3.3: Lipids"
+            },
+            "score": 0.11779412254700719,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[openstax_2_p99_para_0 | openstax_2 | page 99]\nFigure : Triacylglycerol is formed by the joining of three fatty acids to a glycerol backbone in a dehydration reaction. Three molecules of water are released in the process. During this ester bond formation, three water molecules are released. The three fatty acids in the triacylglycerol may be similar or dissimilar. Fats are also called triacylglycerols or triglycerides because of their chemical structure. Some fatty acids have common names that specify their origin. For example, palmitic acid, a saturated fatty acid, is derived from the palm tree. Arachidic acid is derived from Arachis hypogea, the scientific name for groundnuts or peanuts. Fatty acids may be saturated or unsaturated. In a fatty acid chain, if there are only single bonds between neighboring carbons in the hydrocarbon chain, the fatty acid is said to be saturated. Saturated fatty acids are saturated with hydrogen; in other words, the number of hydrogen atoms attached to the carbon skeleton is maximized.\n\n[openstax_2_p108_para_2 | openstax_2 | page 108]\nThe carboxyl group of one amino acid and the amino group of the incoming amino acid combine, releasing a molecule of water. The resulting bond is the peptide bond (Figure ). Figure : Peptide bond formation is a dehydration synthesis reaction. The carboxyl group of one amino acid is linked to the amino group of the incoming amino acid. In the process, a molecule of water is released. The products formed by such linkages are called peptides. As more amino acids join to this growing chain, the resulting chain is known as a polypeptide. Each polypeptide has a free amino group at one end. This end is called the N terminal, or the amino terminal, and the other end has a free carboxyl group, also known as the C or carboxyl terminal.\n\n[openstax_2_p105_para_0 | openstax_2 | page 105]\nsaturated fatty acid long-chain of hydrocarbon with single covalent bonds in the carbon chain; the number of hydrogen atoms attached to the carbon skeleton is maximized steroid type of lipid composed of four fused hydrocarbon rings forming a planar structure trans fat fat formed artificially by hydrogenating oils, leading to a different arrangement of double bond(s) than those found in naturally occurring lipids triacylglycerol (also, triglyceride) fat molecule; consists of three fatty acids linked to a glycerol molecule unsaturated fatty acid long-chain hydrocarbon that has one or more double bonds in the hydrocarbon chain wax lipid made of a long-chain fatty acid that is esterified to a long-chain alcohol; serves as a protective coating on some feathers, aquatic mammal fur, and leaves 91 (3.3.8)",
+        "context_ids": [
+          "openstax_2_p99_para_0",
+          "openstax_2_p108_para_2",
+          "openstax_2_p105_para_0"
+        ]
+      }
+    ],
+    "usage": [
+      {
+        "cache_tokens_details": null,
+        "cached_content_token_count": null,
+        "candidates_token_count": 21,
+        "candidates_tokens_details": null,
+        "prompt_token_count": 110,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 110
+          }
+        ],
+        "thoughts_token_count": null,
+        "tool_use_prompt_token_count": null,
+        "tool_use_prompt_tokens_details": null,
+        "total_token_count": 131,
+        "traffic_type": null
+      },
+      {
+        "cache_tokens_details": null,
+        "cached_content_token_count": null,
+        "candidates_token_count": 91,
+        "candidates_tokens_details": null,
+        "prompt_token_count": 721,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 721
+          }
+        ],
+        "thoughts_token_count": null,
+        "tool_use_prompt_token_count": null,
+        "tool_use_prompt_tokens_details": null,
+        "total_token_count": 812,
+        "traffic_type": null
+      }
+    ],
+    "model": "gemini-3.5-flash-lite",
+    "service_cost_usd": null,
+    "cost_note": "Use usage tokens and current provider billing; no fabricated cost",
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "elapsed_seconds": 1.795960700022988
+  },
+  {
+    "query_id": "q09",
+    "split": "dev",
+    "question": "In what specialized cells do mammals store fat, and how do plants store fat or oil for seedling development?",
+    "answerable": true,
+    "results": [
+      {
+        "id": "openstax_2_p100_para_0",
+        "source_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 100,
+        "text": "the carbon atoms of the chain. A fat may contain similar or different fatty acids attached to glycerol. Long straight fatty acids with single bonds tend to get packed tightly and are solid at room temperature. Animal fats with stearic acid and palmitic acid (common in meat) and the fat with butyric acid (common in butter) are examples of saturated fats. Mammals store fats in specialized cells called adipocytes, where globules of fat occupy most of the cell’s volume. In plants, fat or oil is stored in many seeds and is used as a source of energy during seedling development. Unsaturated fats or oils are usually of plant origin and contain cis unsaturated fatty acids. Cis and trans indicate the configuration of the molecule around the double bond. If hydrogens are present in the same plane, it is referred to as a cis fat; if the hydrogen atoms are on two different planes, it is referred to as a trans fat.",
+        "metadata": {
+          "section": "3.3: Lipids"
+        },
+        "score": 0.3801224525307388,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_2_p98_para_0",
+        "source_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 98,
+        "text": "3.3: Lipids • Describe the four major types of lipids • Explain the role of fats in storing energy • Differentiate between saturated and unsaturated fatty acids • Describe phospholipids and their role in cells • Define the basic structure of a steroid and some functions of steroids • Explain the how cholesterol helps to maintain the fluid nature of the plasma membrane Lipids include a diverse group of compounds that are largely nonpolar in nature. This is because they are hydrocarbons that include mostly nonpolar carbon–carbon or carbon–hydrogen bonds. Non-polar molecules are hydrophobic (“water fearing”), or insoluble in water. Lipids perform many different functions in a cell. Cells store energy for long-term use in the form of fats. Lipids also provide insulation from the environment for plants and animals (Figure ). For example, they help keep aquatic birds and mammals dry when forming a protective layer over fur or feathers because of their water-repellant hydrophobic nature.",
+        "metadata": {
+          "section": "3.3: Lipids"
+        },
+        "score": 0.147993070506397,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_2_p124_para_1",
+        "source_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 124,
+        "text": "This creates an opening in the outer shells of atoms in the monomers, which can share electrons and form covalent bonds. D D B B Glycogen and starch are polysaccharides. They are the storage form of glucose. Glycogen is stored in animals in the liver and in muscle cells, whereas starch is stored in the roots, seeds, and leaves of plants. Starch has two different forms, one unbranched (amylose) and one branched (amylopectin), whereas glycogen is a single type of a highly branched molecule. The β 1-4 glycosidic linkage in cellulose cannot be broken down by human digestive enzymes. Herbivores such as cows, buffalos, and horses are able to digest grass that is rich in cellulose and use it as a food source because bacteria and protists in their digestive systems, especially in the rumen, secrete the enzyme cellulase. Cellulases can break down cellulose into glucose monomers that can be used as an energy source by the animal. D A Fat serves as a valuable way for animals to store energy.",
+        "metadata": {
+          "section": "3.E: Biological Macromolecules (Exercises)"
+        },
+        "score": 0.11725219792116928,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[openstax_2_p100_para_0 | openstax_2 | page 100]\nthe carbon atoms of the chain. A fat may contain similar or different fatty acids attached to glycerol. Long straight fatty acids with single bonds tend to get packed tightly and are solid at room temperature. Animal fats with stearic acid and palmitic acid (common in meat) and the fat with butyric acid (common in butter) are examples of saturated fats. Mammals store fats in specialized cells called adipocytes, where globules of fat occupy most of the cell’s volume. In plants, fat or oil is stored in many seeds and is used as a source of energy during seedling development. Unsaturated fats or oils are usually of plant origin and contain cis unsaturated fatty acids. Cis and trans indicate the configuration of the molecule around the double bond. If hydrogens are present in the same plane, it is referred to as a cis fat; if the hydrogen atoms are on two different planes, it is referred to as a trans fat.\n\n[openstax_2_p98_para_0 | openstax_2 | page 98]\n3.3: Lipids • Describe the four major types of lipids • Explain the role of fats in storing energy • Differentiate between saturated and unsaturated fatty acids • Describe phospholipids and their role in cells • Define the basic structure of a steroid and some functions of steroids • Explain the how cholesterol helps to maintain the fluid nature of the plasma membrane Lipids include a diverse group of compounds that are largely nonpolar in nature. This is because they are hydrocarbons that include mostly nonpolar carbon–carbon or carbon–hydrogen bonds. Non-polar molecules are hydrophobic (“water fearing”), or insoluble in water. Lipids perform many different functions in a cell. Cells store energy for long-term use in the form of fats. Lipids also provide insulation from the environment for plants and animals (Figure ). For example, they help keep aquatic birds and mammals dry when forming a protective layer over fur or feathers because of their water-repellant hydrophobic nature.\n\n[openstax_2_p105_para_0 | openstax_2 | page 105]\nsaturated fatty acid long-chain of hydrocarbon with single covalent bonds in the carbon chain; the number of hydrogen atoms attached to the carbon skeleton is maximized steroid type of lipid composed of four fused hydrocarbon rings forming a planar structure trans fat fat formed artificially by hydrogenating oils, leading to a different arrangement of double bond(s) than those found in naturally occurring lipids triacylglycerol (also, triglyceride) fat molecule; consists of three fatty acids linked to a glycerol molecule unsaturated fatty acid long-chain hydrocarbon that has one or more double bonds in the hydrocarbon chain wax lipid made of a long-chain fatty acid that is esterified to a long-chain alcohol; serves as a protective coating on some feathers, aquatic mammal fur, and leaves 91 (3.3.8)",
+    "context_ids": [
+      "openstax_2_p100_para_0",
+      "openstax_2_p98_para_0",
+      "openstax_2_p105_para_0"
+    ],
+    "status": "answered",
+    "answer": "Mammals store fats in specialized cells called **adipocytes**, where globules of fat occupy the majority of the cell’s volume [openstax_2_p100_para_0]. \n\nIn plants, fat or oil is stored in many **seeds**, where it is used as a source of energy during seedling development [openstax_2_p100_para_0].",
+    "citations": [
+      "openstax_2_p100_para_0",
+      "openstax_2_p100_para_0"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "specialized cells mammals store fat plants store fat oil seedling development",
+        "results": [
+          {
+            "id": "openstax_2_p100_para_0",
+            "source_id": "openstax_2",
+            "source": "openstax_2",
+            "page": 100,
+            "text": "the carbon atoms of the chain. A fat may contain similar or different fatty acids attached to glycerol. Long straight fatty acids with single bonds tend to get packed tightly and are solid at room temperature. Animal fats with stearic acid and palmitic acid (common in meat) and the fat with butyric acid (common in butter) are examples of saturated fats. Mammals store fats in specialized cells called adipocytes, where globules of fat occupy most of the cell’s volume. In plants, fat or oil is stored in many seeds and is used as a source of energy during seedling development. Unsaturated fats or oils are usually of plant origin and contain cis unsaturated fatty acids. Cis and trans indicate the configuration of the molecule around the double bond. If hydrogens are present in the same plane, it is referred to as a cis fat; if the hydrogen atoms are on two different planes, it is referred to as a trans fat.",
+            "metadata": {
+              "section": "3.3: Lipids"
+            },
+            "score": 0.38772018642253336,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "openstax_2_p98_para_0",
+            "source_id": "openstax_2",
+            "source": "openstax_2",
+            "page": 98,
+            "text": "3.3: Lipids • Describe the four major types of lipids • Explain the role of fats in storing energy • Differentiate between saturated and unsaturated fatty acids • Describe phospholipids and their role in cells • Define the basic structure of a steroid and some functions of steroids • Explain the how cholesterol helps to maintain the fluid nature of the plasma membrane Lipids include a diverse group of compounds that are largely nonpolar in nature. This is because they are hydrocarbons that include mostly nonpolar carbon–carbon or carbon–hydrogen bonds. Non-polar molecules are hydrophobic (“water fearing”), or insoluble in water. Lipids perform many different functions in a cell. Cells store energy for long-term use in the form of fats. Lipids also provide insulation from the environment for plants and animals (Figure ). For example, they help keep aquatic birds and mammals dry when forming a protective layer over fur or feathers because of their water-repellant hydrophobic nature.",
+            "metadata": {
+              "section": "3.3: Lipids"
+            },
+            "score": 0.11965999076740422,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "openstax_2_p105_para_0",
+            "source_id": "openstax_2",
+            "source": "openstax_2",
+            "page": 105,
+            "text": "saturated fatty acid long-chain of hydrocarbon with single covalent bonds in the carbon chain; the number of hydrogen atoms attached to the carbon skeleton is maximized steroid type of lipid composed of four fused hydrocarbon rings forming a planar structure trans fat fat formed artificially by hydrogenating oils, leading to a different arrangement of double bond(s) than those found in naturally occurring lipids triacylglycerol (also, triglyceride) fat molecule; consists of three fatty acids linked to a glycerol molecule unsaturated fatty acid long-chain hydrocarbon that has one or more double bonds in the hydrocarbon chain wax lipid made of a long-chain fatty acid that is esterified to a long-chain alcohol; serves as a protective coating on some feathers, aquatic mammal fur, and leaves 91 (3.3.8)",
+            "metadata": {
+              "section": "3.3: Lipids"
+            },
+            "score": 0.10787767034476814,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[openstax_2_p100_para_0 | openstax_2 | page 100]\nthe carbon atoms of the chain. A fat may contain similar or different fatty acids attached to glycerol. Long straight fatty acids with single bonds tend to get packed tightly and are solid at room temperature. Animal fats with stearic acid and palmitic acid (common in meat) and the fat with butyric acid (common in butter) are examples of saturated fats. Mammals store fats in specialized cells called adipocytes, where globules of fat occupy most of the cell’s volume. In plants, fat or oil is stored in many seeds and is used as a source of energy during seedling development. Unsaturated fats or oils are usually of plant origin and contain cis unsaturated fatty acids. Cis and trans indicate the configuration of the molecule around the double bond. If hydrogens are present in the same plane, it is referred to as a cis fat; if the hydrogen atoms are on two different planes, it is referred to as a trans fat.\n\n[openstax_2_p98_para_0 | openstax_2 | page 98]\n3.3: Lipids • Describe the four major types of lipids • Explain the role of fats in storing energy • Differentiate between saturated and unsaturated fatty acids • Describe phospholipids and their role in cells • Define the basic structure of a steroid and some functions of steroids • Explain the how cholesterol helps to maintain the fluid nature of the plasma membrane Lipids include a diverse group of compounds that are largely nonpolar in nature. This is because they are hydrocarbons that include mostly nonpolar carbon–carbon or carbon–hydrogen bonds. Non-polar molecules are hydrophobic (“water fearing”), or insoluble in water. Lipids perform many different functions in a cell. Cells store energy for long-term use in the form of fats. Lipids also provide insulation from the environment for plants and animals (Figure ). For example, they help keep aquatic birds and mammals dry when forming a protective layer over fur or feathers because of their water-repellant hydrophobic nature.\n\n[openstax_2_p105_para_0 | openstax_2 | page 105]\nsaturated fatty acid long-chain of hydrocarbon with single covalent bonds in the carbon chain; the number of hydrogen atoms attached to the carbon skeleton is maximized steroid type of lipid composed of four fused hydrocarbon rings forming a planar structure trans fat fat formed artificially by hydrogenating oils, leading to a different arrangement of double bond(s) than those found in naturally occurring lipids triacylglycerol (also, triglyceride) fat molecule; consists of three fatty acids linked to a glycerol molecule unsaturated fatty acid long-chain hydrocarbon that has one or more double bonds in the hydrocarbon chain wax lipid made of a long-chain fatty acid that is esterified to a long-chain alcohol; serves as a protective coating on some feathers, aquatic mammal fur, and leaves 91 (3.3.8)",
+        "context_ids": [
+          "openstax_2_p100_para_0",
+          "openstax_2_p98_para_0",
+          "openstax_2_p105_para_0"
+        ]
+      }
+    ],
+    "usage": [
+      {
+        "cache_tokens_details": null,
+        "cached_content_token_count": null,
+        "candidates_token_count": 25,
+        "candidates_tokens_details": null,
+        "prompt_token_count": 111,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 111
+          }
+        ],
+        "thoughts_token_count": null,
+        "tool_use_prompt_token_count": null,
+        "tool_use_prompt_tokens_details": null,
+        "total_token_count": 136,
+        "traffic_type": null
+      },
+      {
+        "cache_tokens_details": null,
+        "cached_content_token_count": null,
+        "candidates_token_count": 84,
+        "candidates_tokens_details": null,
+        "prompt_token_count": 765,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 765
+          }
+        ],
+        "thoughts_token_count": null,
+        "tool_use_prompt_token_count": null,
+        "tool_use_prompt_tokens_details": null,
+        "total_token_count": 849,
+        "traffic_type": null
+      }
+    ],
+    "model": "gemini-3.5-flash-lite",
+    "service_cost_usd": null,
+    "cost_note": "Use usage tokens and current provider billing; no fabricated cost",
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "elapsed_seconds": 1.7889655000180937
+  },
+  {
+    "query_id": "q10",
+    "split": "dev",
+    "question": "How does the structure of a phospholipid differ from a triglyceride, and does a phosphate group alone attached to a diacylglycerol qualify as a phospholipid?",
+    "answerable": true,
+    "results": [
+      {
+        "id": "openstax_2_p102_para_0",
+        "source_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 102,
+        "text": "Figure : Waxy coverings on some leaves are made of lipids. (credit: Roger Griffith) Phospholipids Phospholipids are major constituents of the plasma membrane, the outermost layer of animal cells. Like fats, they are composed of fatty acid chains attached to a glycerol or sphingosine backbone. Instead of three fatty acids attached as in triglycerides, however, there are two fatty acids forming diacylglycerol, and the third carbon of the glycerol backbone is occupied by a modified phosphate group (Figure ). A phosphate group alone attached to a diaglycerol does not qualify as a phospholipid; it is phosphatidate (diacylglycerol 3-phosphate), the precursor of phospholipids. The phosphate group is modified by an alcohol. Phosphatidylcholine and phosphatidylserine are two important phospholipids that are found in plasma membranes. Figure : A phospholipid is a molecule with two fatty acids and a modified phosphate group attached to a glycerol backbone.",
+        "metadata": {
+          "section": "3.3: Lipids"
+        },
+        "score": 0.407141908513106,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_2_p102_para_1",
+        "source_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 102,
+        "text": "The phosphate may be modified by the addition of charged or polar chemical groups. Two chemical groups that may modify the phosphate, choline and serine, are shown here. Both choline and serine attach to the phosphate group at the position labeled R via the hydroxyl group indicated in green. A phospholipid is an amphipathic molecule, meaning it has a hydrophobic and a hydrophilic part. The fatty acid chains are hydrophobic and cannot interact with water, whereas the phosphate-containing group is hydrophilic and interacts with water (Figure ). 88 (3.3.5)",
+        "metadata": {
+          "section": "3.3: Lipids"
+        },
+        "score": 0.18556292906221694,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_1_p25_para_3",
+        "source_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 25,
+        "text": "How does he use language to convey to the other members of Parliament the difficult conditions of factory labor? What arguments does John Thomas Hope use to oppose limiting the number of hours children can work? How does he try to persuade other members of Parliament to support his position? Why may the reporter have chosen to present Hope’s speech in the third person instead of in the first person, as he did for Sadler’s? Does this make Hope’s speech a less reliable source for a historian to rely upon for evidence? Records of parliamentary debate were available to the public to read. In what way might this have influenced what these politicians said and how they framed their arguments?",
+        "metadata": {
+          "section": "1.3: Primary Sources"
+        },
+        "score": 0.18155471509332477,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[openstax_2_p102_para_0 | openstax_2 | page 102]\nFigure : Waxy coverings on some leaves are made of lipids. (credit: Roger Griffith) Phospholipids Phospholipids are major constituents of the plasma membrane, the outermost layer of animal cells. Like fats, they are composed of fatty acid chains attached to a glycerol or sphingosine backbone. Instead of three fatty acids attached as in triglycerides, however, there are two fatty acids forming diacylglycerol, and the third carbon of the glycerol backbone is occupied by a modified phosphate group (Figure ). A phosphate group alone attached to a diaglycerol does not qualify as a phospholipid; it is phosphatidate (diacylglycerol 3-phosphate), the precursor of phospholipids. The phosphate group is modified by an alcohol. Phosphatidylcholine and phosphatidylserine are two important phospholipids that are found in plasma membranes. Figure : A phospholipid is a molecule with two fatty acids and a modified phosphate group attached to a glycerol backbone.\n\n[openstax_2_p102_para_1 | openstax_2 | page 102]\nThe phosphate may be modified by the addition of charged or polar chemical groups. Two chemical groups that may modify the phosphate, choline and serine, are shown here. Both choline and serine attach to the phosphate group at the position labeled R via the hydroxyl group indicated in green. A phospholipid is an amphipathic molecule, meaning it has a hydrophobic and a hydrophilic part. The fatty acid chains are hydrophobic and cannot interact with water, whereas the phosphate-containing group is hydrophilic and interacts with water (Figure ). 88 (3.3.5)\n\n[openstax_1_p25_para_3 | openstax_1 | page 25]\nHow does he use language to convey to the other members of Parliament the difficult conditions of factory labor? What arguments does John Thomas Hope use to oppose limiting the number of hours children can work? How does he try to persuade other members of Parliament to support his position? Why may the reporter have chosen to present Hope’s speech in the third person instead of in the first person, as he did for Sadler’s? Does this make Hope’s speech a less reliable source for a historian to rely upon for evidence? Records of parliamentary debate were available to the public to read. In what way might this have influenced what these politicians said and how they framed their arguments?",
+    "context_ids": [
+      "openstax_2_p102_para_0",
+      "openstax_2_p102_para_1",
+      "openstax_1_p25_para_3"
+    ],
+    "status": "error",
+    "error_type": "ValueError",
+    "error": "Missing or invalid citation IDs",
+    "elapsed_seconds": 2.1877879000094254
+  },
+  {
+    "query_id": "q11",
+    "split": "dev",
+    "question": "Within section 3.3: Lipids, where is cholesterol mainly synthesized, and what hormones and vitamin is it a precursor to?",
+    "answerable": true,
+    "results": [
+      {
+        "id": "openstax_2_p104_para_0",
+        "source_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 104,
+        "text": "Cholesterol is the most common steroid. Cholesterol is mainly synthesized in the liver and is the precursor to many steroid hormones such as testosterone and estradiol, which are secreted by the gonads and endocrine glands. It is also the precursor to Vitamin D. Cholesterol is also the precursor of bile salts, which help in the emulsification of fats and their subsequent absorption by cells. Although cholesterol is often spoken of in negative terms by lay people, it is necessary for proper functioning of the body. It is a component of the plasma membrane of animal cells and is found within the phospholipid bilayer. Being the outermost structure in animal cells, the plasma membrane is responsible for the transport of materials and cellular recognition and it is involved in cell-to-cell communication. For an additional perspective on lipids, explore the interactive animation “Biomolecules: The Lipids”.",
+        "metadata": {
+          "section": "3.3: Lipids"
+        },
+        "score": 0.43060289381837913,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_2_p104_para_2",
+        "source_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 104,
+        "text": "Cholesterol is a type of steroid and is an important constituent of the plasma membrane, where it helps to maintain the fluid nature of the membrane. It is also the precursor of steroid hormones such as testosterone. Glossary lipid macromolecule that is nonpolar and insoluble in water omega fat type of polyunsaturated fat that is required by the body; the numbering of the carbon omega starts from the methyl end or the end that is farthest from the carboxylic end phospholipid major constituent of the membranes; composed of two fatty acids and a phosphate-containing group attached to a glycerol backbone Link to Learning 90 (3.3.7)",
+        "metadata": {
+          "section": "3.3: Lipids"
+        },
+        "score": 0.20243227195485244,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "openstax_2_p98_para_0",
+        "source_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 98,
+        "text": "3.3: Lipids • Describe the four major types of lipids • Explain the role of fats in storing energy • Differentiate between saturated and unsaturated fatty acids • Describe phospholipids and their role in cells • Define the basic structure of a steroid and some functions of steroids • Explain the how cholesterol helps to maintain the fluid nature of the plasma membrane Lipids include a diverse group of compounds that are largely nonpolar in nature. This is because they are hydrocarbons that include mostly nonpolar carbon–carbon or carbon–hydrogen bonds. Non-polar molecules are hydrophobic (“water fearing”), or insoluble in water. Lipids perform many different functions in a cell. Cells store energy for long-term use in the form of fats. Lipids also provide insulation from the environment for plants and animals (Figure ). For example, they help keep aquatic birds and mammals dry when forming a protective layer over fur or feathers because of their water-repellant hydrophobic nature.",
+        "metadata": {
+          "section": "3.3: Lipids"
+        },
+        "score": 0.15420982107148978,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[openstax_2_p104_para_0 | openstax_2 | page 104]\nCholesterol is the most common steroid. Cholesterol is mainly synthesized in the liver and is the precursor to many steroid hormones such as testosterone and estradiol, which are secreted by the gonads and endocrine glands. It is also the precursor to Vitamin D. Cholesterol is also the precursor of bile salts, which help in the emulsification of fats and their subsequent absorption by cells. Although cholesterol is often spoken of in negative terms by lay people, it is necessary for proper functioning of the body. It is a component of the plasma membrane of animal cells and is found within the phospholipid bilayer. Being the outermost structure in animal cells, the plasma membrane is responsible for the transport of materials and cellular recognition and it is involved in cell-to-cell communication. For an additional perspective on lipids, explore the interactive animation “Biomolecules: The Lipids”.\n\n[openstax_2_p104_para_2 | openstax_2 | page 104]\nCholesterol is a type of steroid and is an important constituent of the plasma membrane, where it helps to maintain the fluid nature of the membrane. It is also the precursor of steroid hormones such as testosterone. Glossary lipid macromolecule that is nonpolar and insoluble in water omega fat type of polyunsaturated fat that is required by the body; the numbering of the carbon omega starts from the methyl end or the end that is farthest from the carboxylic end phospholipid major constituent of the membranes; composed of two fatty acids and a phosphate-containing group attached to a glycerol backbone Link to Learning 90 (3.3.7)\n\n[openstax_2_p98_para_0 | openstax_2 | page 98]\n3.3: Lipids • Describe the four major types of lipids • Explain the role of fats in storing energy • Differentiate between saturated and unsaturated fatty acids • Describe phospholipids and their role in cells • Define the basic structure of a steroid and some functions of steroids • Explain the how cholesterol helps to maintain the fluid nature of the plasma membrane Lipids include a diverse group of compounds that are largely nonpolar in nature. This is because they are hydrocarbons that include mostly nonpolar carbon–carbon or carbon–hydrogen bonds. Non-polar molecules are hydrophobic (“water fearing”), or insoluble in water. Lipids perform many different functions in a cell. Cells store energy for long-term use in the form of fats. Lipids also provide insulation from the environment for plants and animals (Figure ). For example, they help keep aquatic birds and mammals dry when forming a protective layer over fur or feathers because of their water-repellant hydrophobic nature.",
+    "context_ids": [
+      "openstax_2_p104_para_0",
+      "openstax_2_p104_para_2",
+      "openstax_2_p98_para_0"
+    ],
+    "status": "error",
+    "error_type": "ClientError",
+    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.5-flash-lite, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\\nPlease retry in 1.258970875s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.5-flash-lite', 'location': 'global'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '1s'}]}}",
+    "elapsed_seconds": 0.4873325000226032
+  }
+]
