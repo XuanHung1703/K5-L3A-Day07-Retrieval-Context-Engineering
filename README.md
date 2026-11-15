@@ -2,6 +2,16 @@
 
 **Bài cá nhân · Python 3.11+ · tiếp nối Day 6**
 
+**Sinh viên:** Nguyễn Xuân Hùng
+
+**Mã học viên:** `2A202603599`
+
+**Lớp:** `L3A`
+
+**Repo bài nộp:** https://github.com/XuanHung1703/K5-L3A-Day07-Retrieval-Context-Engineering
+
+**Báo cáo cá nhân:** [2A202603599_NguyenXuanHung.md](report/individual/2A202603599_NguyenXuanHung.md)
+
 Dùng embedding và vector store từ Day 6 để xây một agent biết tìm bằng chứng, trả lời có nguồn và nhận biết khi không đủ thông tin. Bạn tự chọn kiến trúc, số tool và cách tổ chức retrieval.
 
 > **Tùy chọn:** [Gợi ý dùng AI để lập trình](AGENT_SETUP.md) giúp bạn làm lab; phần này không bắt buộc và không tính điểm.
@@ -30,4 +40,4 @@ Index một tài liệu thực tế từ **100 trang** có bảng, ảnh và bi�
 
 ![Các bước thử nghiệm trên dev và đánh giá trên test](assets/experiment-loop.svg)
 
-Nộp code, cách chạy, cấu hình, benchmark, trace và [báo cáo](report/individual/MSSV_HoTen.md). Thời gian ở [checkpoints](CHECKPOINTS.md) là gợi ý, có thể điều chỉnh theo lớp và phạm vi thử nghiệm.
+Nộp code, cách chạy, cấu hình, benchmark, trace và [báo cáo cá nhân](report/individual/2A202603599_NguyenXuanHung.md). Thời gian ở [checkpoints](CHECKPOINTS.md) là gợi ý, có thể điều chỉnh theo lớp và phạm vi thử nghiệm.

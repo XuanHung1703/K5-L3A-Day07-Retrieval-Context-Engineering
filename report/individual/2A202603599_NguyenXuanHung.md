@@ -1,8 +1,14 @@
 # Báo cáo Lab 7 — bản đang hoàn thiện
 
-Nguyễn Xuân Hùng — 2A202603599 — L3A
+**Họ và tên:** Nguyễn Xuân Hùng
 
-**Trạng thái:** Phần cơ bản đã có các lần chạy agent, retrieval, test và nhãn đối chiếu do AI thực hiện. Người học cần kiểm tra độc lập nhãn, quyền dữ liệu và giới hạn test kế thừa trước khi nộp. Không push Git.
+**Mã học viên:** `2A202603599`
+
+**Lớp:** `L3A`
+
+**Repo bài nộp:** https://github.com/XuanHung1703/K5-L3A-Day07-Retrieval-Context-Engineering
+
+**Trạng thái:** Phần cơ bản đã có các lần chạy agent, retrieval, test và nhãn đối chiếu do AI thực hiện. Người học cần kiểm tra độc lập nhãn, quyền dữ liệu và giới hạn test kế thừa trước khi nộp. Bài đã được đưa lên repo cá nhân; cần kiểm tra lại nhãn trước khi nộp.
 
 ## Dữ liệu
 
@@ -51,7 +57,7 @@ Code có Gemini 3.8 Flash function calling, tối đa 3 lần search, context bu
 
 ## Hướng dẫn tái lập
 
-Xem HUONG_DAN_CHAY_LAB7.md và solution/versions-tested.json. Output mới không ghi đè lần trước. .env không được theo dõi trong Git. Không có thao tác commit/push.
+Xem HUONG_DAN_CHAY_LAB7.md và solution/versions-tested.json. Output mới không ghi đè lần trước. .env không được theo dõi trong Git. Repo bài nộp được ghi ở đầu báo cáo.
 
 Lưu ý tái lập: code agent đã sửa sau các lần retrieval benchmark để tương thích SDK và kiểm soát retry. Fingerprint cũ không hợp lệ cho test mới; cần chạy dev lại sau mọi thay đổi code rồi mới chạy test với config tương ứng. Không xem retrieval test đã chạy là đánh giá độc lập của phiên bản agent mới.
 
